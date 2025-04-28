@@ -1,0 +1,25 @@
+Prompt: Extract structured data from the order documents following this JSON format exactly:
+
+{
+  "buyer": {
+    "buyer_company_name": "",
+    "buyer_person_name": "",
+    "buyer_email_address": ""
+  },
+  "order": {
+    "order_number": "",
+    "order_date": "",
+    "delivery": {
+      "delivery_address_street": "",
+      "delivery_address_city": "",
+      "delivery_address_postal_code": ""
+    }
+  },
+  "product": {
+    "product_position": 0,
+    "product_article_code": "",
+    "product_quantity": 0
+  }
+}
+
+Explanation: Ensure precise extraction without summarizing or grouping data. Maintain separate fields for company names, person names, and email addresses under the "buyer" section. Include individual fields for order number, order date, delivery address street, city, and postal code under the "order" section. Extract product details with distinct fields for position, article code, and quantity under the "product" section. Be exact in the format, especially the number of lines and the data type of each field. Avoid including incomplete or missing information. Account for OCR errors, background noise, and language variations. Do not merge or group names and addresses. The extracted data must strictly adhere to the provided JSON structure. Pay attention to the differences between the previous output and the expected output, and ensure accurate extraction of all relevant information.

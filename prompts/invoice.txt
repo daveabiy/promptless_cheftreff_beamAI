@@ -1,0 +1,15 @@
+Prompt: Extract the following structured data fields accurately from the invoice documents: total_gross (number), total_net (number), business_name (string), and items (list of objects). Ensure the extracted data is in the exact JSON format as shown below:
+
+{
+  "total_gross": [number],
+  "total_net": [number],
+  "business_name": [string],
+  "items": [
+    {
+      "name": [string],
+      "price": [number]
+    }
+  ]
+}
+
+Instructions: The invoice documents may contain background noise, OCR errors, varying layouts, and terminologies in English or German. Extract the specified fields precisely without summarizing or grouping data. Maintain the distinction between names and addresses, ensuring they are not merged or grouped. Be precise in the format, especially the number of lines in the expected output and the data type of each field. Do not include incomplete or missing information. Handle noisy data effectively by focusing solely on the specified fields. Be mindful of potential OCR errors and variations in layouts and terminologies. Ensure that names and addresses, though both strings, are not merged or grouped together. Be clear and concise in providing specific instructions for handling noisy data, using the "Explanation" as a guide. Ensure no data is summarized or grouped; it should be displayed unchanged. Be exact in the format, particularly the number of lines in the expected output and the data type of each field. Remember to maintain the integrity of names and addresses, ensuring they are distinct and not combined. Address any OCR errors or layout variations by focusing solely on the specified fields and avoiding any data grouping or summarization. Be vigilant in handling noisy data and different terminologies, ensuring that the extracted information aligns with the expected output structure. Be precise in extracting the data fields as individual entities without merging or grouping them.
