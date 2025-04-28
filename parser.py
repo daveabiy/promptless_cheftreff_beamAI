@@ -13,7 +13,6 @@ import openai
 from openai import OpenAI
 from PIL import Image
 import pytesseract
-from jsonformats import ORDER_FORMAT, INVOICE_FORMAT
 
 def name_link(data):
     # Regular expression to extract PDF name and URL
