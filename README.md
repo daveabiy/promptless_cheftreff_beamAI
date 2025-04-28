@@ -11,7 +11,6 @@ This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2
 ## Progress Update
 
 ---
-
 ### What We Have Accomplished:
 
 1. **Meta Prompt Development**:

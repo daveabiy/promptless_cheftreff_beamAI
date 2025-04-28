@@ -16,7 +16,7 @@ try:
 except ImportError:
     print("dotenv package not installed. Environment variables must be set manually.")
 
-def import_all_extracted_texts(log_folder='extracted_text_2'):
+def import_all_extracted_texts(log_folder='data/extracted_text'):
     """
     Import all extracted text files from the log folder.
     

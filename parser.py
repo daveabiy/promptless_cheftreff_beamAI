@@ -66,8 +66,8 @@ def main(csv_file):
     print(f"Processing CSV file: {csv_file}")
     
     # Create output directories
-    output_dir = "extracted_text_2"
-    pdf_dir = "downloaded_pdfs"
+    output_dir = "data/extracted_text"
+    pdf_dir = "data/downloaded_pdfs"
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(pdf_dir, exist_ok=True)
     
