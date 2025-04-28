@@ -1,6 +1,13 @@
 # promptless_cheftreff_beamAI
 This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2025, Hamburg. The task is to create an AI agent that can generate prompt given the output.
 
+# command for running:
+## converting the pdf to text file using pytesseract
+<b><i>python parser.py data/Testdata_Hackathon.csv</i></b>
+
+## extracting required information using a generated prompt
+<b><i>python parser.py data/Testdata_Hackathon.csv</i></b>
+
 ## Progress Update
 
 ---
