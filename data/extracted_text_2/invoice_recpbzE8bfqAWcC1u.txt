@@ -1,0 +1,49 @@
+Parkhaus Ridingsmarkt
+Ridingsmarkt 14
+20459 Hamburg
+040-364980
+
+- Quittung Parkentgelt -
+Kassenautonat 1 12.01.24 16:38
+Parkkarte Nr. 2030
+
+Parkzeit § -Beginn 11.01.24 19:12
+-Ende 12.01.24 16:38
+
+-Dauer 0 Tage 21:27
+Parkentgelt 33,50 EUR
+Gegeben 33,50 EUR
+Hetto 28,15 EUR
+19% Hust. 5,35 EUR
+
+St.-Nr.:27/112/00145
+K-U-N-D-E-N-B-E-L-E-G
+Parkhaus Roedingsmark
+
+Roedingsmarkt 6
+20459 Hamburg
+Bezahlung DEBIT HASTERCARD
+
+Betrag 33,50 EUR
+12.01.2024 16:39
+Terminal -ID 54034202
+
+TA-Nr. 150002 Beleg-Nr. 0228
+Kartennr. HARAARRARRAHS 562
+K.folg.Nr 0002
+Chip Online
+WU-Numner 803827990
+AlD-Paraneter 0100000002
+Autorisierungsnunmer 291546
+EXU-Daten:
+0000048000/E800////420300//901
+290000230300000048000E80001/3E
+004BF9/40
+AS-Proc-Code = 00 055 00
+Capt.-Ref.= 1808
+AIDS9: NT2Z245
+*k Zahlung erfolat *x
+Gute Fahrt!
+St.Nr.: 27/112/00145
+
+

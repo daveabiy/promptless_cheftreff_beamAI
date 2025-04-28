@@ -1,0 +1,87 @@
+Premier Inn Hannover City University
+Hamburger Allee 65
+
+30161 Hannover
+
+Deutschland
+
+Premier Inn
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RECHNUNG Rechnungsdatum 21.02.2024
+Rechnungsnummer GBGI68756
+Apimeister Consulting GmbH Druckdatum 21.02.2024
+Name des Gastes Jens Walter
+Zimmernummer 126
+Datum Ankunft 19.02.2024
+Datum Abreise 21.02.2024
+Buchungsnummer 357944560
+Datum Bezeichnung der Leistung USt - Nettobetrag USt - Betrag Bruttobetrag _ Betrag erhalten
+Satz in EUR in EUR in EUR in EUR
+19.02.24 Friihstiick Speisen 19% 9.94 1.89 11.83
+19.02.24 Fruhstiick Getranke 19% 4.26 0.81 5.07
+19.02.24 Ubernachtungsteuer/Kurbeitrag 7% 4.00 0.00 4.00
+19.02.24 Umsatzsteuer 7 % 0.28 0.00 0.28
+19.02.24 Mastercard 0.00 0.00 206.36
+19.02.24 Ubernachtung 7% 69.16 4.84 74.00
+20.02.24  Friihstck Speisen 19% 9.94 1.89 11.83
+20.02.24 Frihsttick Getranke 19% 4.26 0.81 5.07
+20.02.24 Ubernachtungsteuer/Kurbeitrag T% 4.00 0.00 4.00
+20.02.24 Umsatzsteuer 7 % 0.28 0.00 0.28
+20.02.24 Ubernachtung 7% 84.11 5.89 90.00
+Gesamt 206.36 206.36
+zu entrichten 0.00
+Nettobetrag USt - Betrag Bruttobetrag
+Umeatesteuersalz in EUR in EUR in EUR
+Umsatzsteuer 19 % 28.40 5.40 33.80
+Umsatzsteuer 7 % (CX) 161.27 11.29 172.56
+Total 189.67 16.69 206.36
+Credit Card Details:
+Type: SALE
+TID: 15621870 MID: 1562187
+Mastercard PAN: : ************2961 RefNo: 35826
+Entry:
+Verification: PIN VERIFIED
+AuthCode: 642322
+EMV DATA: AID:A0000000041010 TVR:0000048001
+Amount: EUR 206.36
+TSE Details:
+FN 254574
+StartD 2024-02-21 06:37:57
+FinishD 2024-02-21 06:37:57
+Serial a37cOfoObaf5f979bd07568bbcbaee0548593e0065ad29418004413d7 8f748ac
+SignCnt 509818
+Sign ZVQBqjvklOwMkbn6kr8w7nLgcPVOHTUQIY usaUY Uke1dz+IV6sRKvkikucWQJIPccdLY dt853Y qypmBSzk6VbXIY aHI3GF
+DKQ+4TzI7y4g1JVVh9/Ann/Sal0i7cj5cG
+Code V0;HANUNI-01;Kassenbeleg-V1;Beleg*33.80_172.56_0.00_0.00_0.00°206.36:Bar;254574;509818;2024-02-
+21T06:37:57.000Z;2024-02-21T06:37:57.000Z;ecdsa-plain-
+SHA384;unixTime;ZVQBqjvklOwMkbn6kr8w7nLgcPVOhTUQIYusaUY Uke1dz+lV6sRKvklkucWQJIPccdLYdt853YqypmB
+Szk6VbXIYaHI3GfDKQ+4Tzl7y4g1JVVh9/Ann/Sal0i7cj5cG; MHYWEAY HKoZlzjOCAQY FK4EEACIDY gAExPhyR3rlGXeQ
+IBBPY6EQB6jrJyCz9W7ghLhdhFlbt2W3rOZGcDpYm4Lqg5sZ/2mfWrxJU 1 9yFTTfDydtAsJqhtmUcmzZGn66txFxwzWk
+Gxg2jBHGffVSal7ty4QYBq7w
+sQ 35686
+TN 900011869
+
+Premier Inn GmbH ist ein Mitglied der Whitbread Group PLC Gruppe.
+
+Sitz der Premier Inn GmbH: Friedrich-Ebert-Anlage 49, 60308 Frankfurt am Main.
+Geschaftsfiihrer: Tobias Roser, Mark Anderson, Florian Graetz, Inge Van Ooteghem.
+Amtsgericht Frankfurt am Main, HRB 99153. USt-Ident-Nr.: DE 297308020
+IBAN: DE27 5004 0000 0592 9658 04; BIC: COBADEFFXXX COMMERZBANK AG
+
+

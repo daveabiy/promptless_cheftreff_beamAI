@@ -1,0 +1,67 @@
+mM dm-drogerle markt
+Grimmalsche StraBe 14
+. 04109 Leipzig
+MEE ee ieee cae cn 68 0341/2247541
+
+26.06.2024 17:22 D29G/5 000102/17 8291
+
+dmBio Gruner Tee Chun Mee 2,65 2
+Bad Heilbr. Mate Pur Tee 27g 1,95 2
+SUMME EUR 4,60
+MasterCard EUR -4,60
+MwSt-Satz Brutto Netto MwSt
+2=7 ,00% 4,60 4,30 0,30
+
+Fiir diesen Einkauf hattest Du
+2 PAYBACK Punkte erhalten
+Du sammelst noch keine PAYBACK Punkte?
+Einfach anmelden und punkten: dm.de/pb
+Offnungszeiten auf dm.de
+Steuer-Nr. :34092/30007
+
+aA FISKALINFORMATIONEN (TSE) REE
+
+Start: 2024-06-26 17:22:28
+Ende: 2024-06-26 17:22:49
+SN-Kasse: FD138415 TA-Nummer: 38192
+
+SN-TSE: 46757a2c660h9dcc 7ab902522662d4b3ca
+2526e4a7ba60d447 f 4d81d202c81fe
+Signaturzaéhler: 76506 Signatur: wyMNBW/Vv
+pbBqD iBukU97FTr3BBPbBkEskNrFcoShZR49ShjQpC
+hd4cZYHYLMjzG5KOVLSYBemUKpycT 47CIpg==
+
+eee re tert tree re ed
+
+* * Kundenbeleg ¥* #
+
+Batum: 26.06.2024
+Uhrzeit: 17:22:41 Uhr
+Beleg-Nr. 6566
+Trace-Nr. 038029
+Bezahlung
+
+Contact less
+
+DEBIT MASTERCARD
+
+Nr. HHAHAAHHHHHHOIOB 0000
+VU-Nr. 4556546988
+Genehmigungs-Nr. NNXNR2
+Terminal-ID 69721058
+Pos-Info 00 075 00
+AS5-Zeit 26.06. 17:22 Uhr
+
+AS-Proc-Code=00 075 U0
+Capt .-Ref .=2253
+AS-RC=00
+
+APPROVED
+
+Betrag EUR 4,60
+
+Genehmigung erteilt
+
+Bitte Beleg aufbewahren
+
+

@@ -1,0 +1,73 @@
+REWE Matthias, Harzschel oHG
+
+Petersstr. 33-35
+04109 Leipzig
+
+UID Nr. : DE363219425
+EUR
+BAERLAUCHREBELL 4,79 B
+OBAZDA KLASSIK 2,19 B
+G. OLIVEN KNOB. 2,19 B
+THUNFISCH IN GUS 2,19 B
+LANDSB. SCHWARZB. 0,75 A
+PFAND 0,08 EUR 0,08 A x
+LANDSB. MAIBOCK 0,75 A
+PFAND 0,08 EUR 0,08 A x
+SUMME EUR 13, 62
+Geg. Mastercard EUR 13, 62
+xX Kundenbeleg x x
+Datum: 25.07. 2024
+Uhrzeit: 17:34:42 Uhr
+Beleg-Nr. 2383
+Trace-Nr. 078100
+Bezahl ung
+Contactless
+DEBIT MASTERCARD
+Nr. HHH HHHHHHOOOB 0000
+VU-Nr. 4556026302
+Terminal-ID 05465
+Pos-Info 075 00
+AS-Zeit 25.07. 17:34 Uhr
+AS-Proc-Code = 00 075 00
+Capt. -Ref. = 0000
+APPROVED
+Betrag EUR 13, 62
+Zahlung erfolgt
+Approved
+Steuer % Netto Steuer Brutto
+A= 19,0% 1,39 0,27 1,66
+B= 7,0% 11,18 0,78 11,96
+Gesantbetrag 12,57 1,05 13,62
+
+PHobueQP6zULvg4UakEd73tk IBam/AbC/
+SUSJBFnUQy10C tOnpr +S3TUHiPJICEQU/
+NjuvSUxu/kT7WSTRBCZVUhgZfyxcY i jYV
+LGnVKNVidrL4cicUgdBZduDY9s0z8
+
+TSE-Signatur:
+
+TSE-Signaturzihler: 781415
+TSE-Transaktion: 379521
+TSE-Start: 2024-07-25117:34:09.000
+TSE-Stop: 2024-07-25117:34:43. 000
+Seriennnumner Kasse: REWE:74:56:3c:89: 28: fe:00
+25. 07. 2024 17:34 Bon-Nr. +4346
+Markt: 6749 Kasse:5 Bed. :432105
+
+DKK KCK KKK ZACK KK CKO ORK KKK OR,
+
+Noch keine PAYBACK Karte?
+Fur diesen Einkauf hattest Du
+6 Punkte_erhalten!
+
+Gleich in der REWE App oder auf
+www. rewe. de/payback anmelden.
+
+Keine Rabatte oder Punkte auf mit *
+gekennzeichnete Produkte.
+
+KIRK KKK KKK KK OKO KOK KK
+
+Vielen Dank fiir ihren Einkauf!
+
+

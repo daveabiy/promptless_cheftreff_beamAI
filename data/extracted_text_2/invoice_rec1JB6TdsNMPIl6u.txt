@@ -1,0 +1,84 @@
+Premier Inn Hamburg City Zentrum
+Willy-Brandt-StraRe 21
+20457, Hamburg
+
+Premier Inn
+
+ 
+
+ 
+
+Deutschland
+INVOICE Invoice Date : 26.03.2024
+Invoice Number : GABI66950
+Apimeister Consulting GmbH Date Issued > 26.03.2024
+Friedrichstrasse 114A Guest Name : Jens Walter
+10117 Berlin Room Number : 117
+Deutschland Arrival Date : 25.03.2024
+Departure Date : 26.03.2024
+Confirmation Number : 531421760
+Date Description ' VAT Net Amount VAT Amount Gross Amount Amount Received
+Rate in EUR in EUR in EUR in EUR
+25.03.24 City Tax 7% 3.00 0.00 3.00
+25.03.24 VAT 7% 0.21 0.00 0.21
+25.03.24 Mastercard 0.00 0.00 124.21
+25.03.24 Accommodation T% 113.08 7.92 121.00
+Total 124.21 124.21
+Balance 0.00
+Net Amount VAT Amount Gross Amount
+VAT Rate in EUR in EUR in EUR
+VAT 7% (CX) 116.08 8.13 124.21
+Total 116.08 8.13 124.21
+
+Credit Card Details:
+
+Type: SALE
+
+TID: 15622320 MID: 1562232
+
+Mastercard PAN: : ************2961 RefNo: 62016
+Entry:
+
+Verification: PIN VERIFIED
+
+AuthCode: 720754
+
+EMV DATA: AID:A0000000041010 TVR:0000048001
+
+ 
+
+ 
+
+Amount: EUR 124.21
+
+TSE Details:
+
+FN 384500
+
+StartD 2024-03-26 08:27:17
+
+FinishD 2024-03-26 08:27:17
+
+Serial 6274b6d7f49c59d2e4ac0aabb1c8 1fefe23a98967 1 16194 0feef7ee0f78a66b1
+
+SignCnt 770140
+
+Sign KckYx4KU0uO2MQHFr7e0HOE7H70ASUXLGOe4BhWogJ+ JBZGOQyZ4F/DV3C9K/hIW2+VvKMN 1xUcpG2Qx0c/qex2faVda
+/wGP58hSOLID8UxINhbvOEc6MF vtZpmD85Yitbg
+
+Code V0;HAMHEI-01 ;Kassenbeleg-V 1 ;Beleg*0.00_124.21_0.00_0.00_0.00*124.21:Bar;384500;770140;2024-03-
+26708:27:17.000Z;2024-03-26108:27:17.000Z;ecdsa-plain-
+SHA384;unixTime;KckYx4KU0UO2MQHFr7e0HoE7H70A5UXL GOe4BhWgJ+ JBZGQyZ4F/DV3COK/hIW2+vVKMN1xUcp
+G2Qx0c/qex2faVda/wGPS58hSOLID8UxINhbv0Ec6MFvtZpmD85Yitbg; MHYWEAYHKoZIzj0OCAQYFK4EEACIDYgAE6YYO
+OySjDvPpYkfB3qymuJPIz2p/SiIRKhhilhswLRRPSQBrxXZKepVOX6TA/IWSiyPZdNpkqEcVXsV8zX8GilksHdY IpUjy2cR3s8
+HNVUCzcZUAv/mLywfqYwsbSfFmgN
+
+sQ 57849
+
+Premier Inn GmbH ist ein Mitglied der Whitbread Group PLC - Gruppe.
+Sitz der Premier Inn GmbH: Europa-Allee 22, 60327 Frankfurt am Main.
+Geschaftsfiihrer: Erik Friemuth, Florian Graetz, Tobias Roser, Inge Van Ooteghem.
+Amtsgericht Frankfurt am Main, HRB 99153. USt-Ident-Nr.: DE 297308020
+IBAN: DE27 5004 0000 0592 9658 04; BIC: COBADEFFXXX COMMERZBANK AG
+
+

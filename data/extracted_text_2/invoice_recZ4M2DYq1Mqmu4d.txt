@@ -1,0 +1,53 @@
+SSP Deutschland
+The Squaire 24
+60549 Frankfurt am Main
+DE 137185550
+
+Rech, 4298
+14 Jun'24 10:35
+Ausser Haus
+| Matcha Green Tea Latte
+Venti 7,59
+Fettreduziert 0.3%
+
+1,21 19% MwSt. AH 7,59
+Netto gesamt: €6,38
+Beverage €7,59
+Zahlung €7,59
+Wechselgeld €0,00
+MasterCard €7,59
+530662xxxxxx0908
+
+------ Rechnung abgeschlossen ------
+
+14 Jun'24 10:35
+
+Transaktionsnummer: 159269
+
+Start Zeit: 2024-06-14 10:36:16
+
+Log Zeit: 2024-06-14 10:36:16
+
+Signaturzaéhler: 319436
+
+TSE Seriennummer: dc34aeba8c9759593b2fe
+
+88b0c0487cf8ccfb5d69092565c 129db5042e0d
+
+20ab
+
+Signatur: 818vBINXDtNCfuBNyUjVSpsEof fFC
+
+lewD/vOvPK5DhP42tOsYzf jzw0Si7gqdW1F17Cd
+
+HGTDcuj |KHDs6sWS7g==
+
+ 
+
+Frankfurt am Main Airport
+Starbucks Halle B
+Tel.: +49 (0)69 951150 0
+St. Nr. 047 243 68921
+Vielen Dank fiir Ihren Besuch
+
+
