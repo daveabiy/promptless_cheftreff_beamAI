@@ -1,15 +1,44 @@
-Prompt: Extract the following structured data fields accurately from the invoice documents: total_gross (number), total_net (number), business_name (string), and items (list of objects). Ensure the extracted data is in the exact JSON format as shown below:
+To extract structured data from invoice documents, follow these specific instructions:
 
+1. Look for the following fields in the document:
+   - "total_gross": a decimal number representing the total amount including taxes.
+   - "total_net": a decimal number representing the total amount before taxes.
+   - "business_name": the name of the business as a string.
+   - "items": an array containing objects with the following fields:
+     - "name": the name of the item as a string.
+     - "price": a decimal number representing the price of the item.
+
+2. Ensure that the extracted data is in the exact JSON format provided below:
 {
-  "total_gross": [number],
-  "total_net": [number],
-  "business_name": [string],
+  "total_gross": <decimal>,
+  "total_net": <decimal>,
+  "business_name": "<string>",
   "items": [
     {
-      "name": [string],
-      "price": [number]
+      "name": "<string>",
+      "price": <decimal>
     }
   ]
 }
 
-Instructions: The invoice documents may contain background noise, OCR errors, varying layouts, and terminologies in English or German. Extract the specified fields precisely without summarizing or grouping data. Maintain the distinction between names and addresses, ensuring they are not merged or grouped. Be precise in the format, especially the number of lines in the expected output and the data type of each field. Do not include incomplete or missing information. Handle noisy data effectively by focusing solely on the specified fields. Be mindful of potential OCR errors and variations in layouts and terminologies. Ensure that names and addresses, though both strings, are not merged or grouped together. Be clear and concise in providing specific instructions for handling noisy data, using the "Explanation" as a guide. Ensure no data is summarized or grouped; it should be displayed unchanged. Be exact in the format, particularly the number of lines in the expected output and the data type of each field. Remember to maintain the integrity of names and addresses, ensuring they are distinct and not combined. Address any OCR errors or layout variations by focusing solely on the specified fields and avoiding any data grouping or summarization. Be vigilant in handling noisy data and different terminologies, ensuring that the extracted information aligns with the expected output structure. Be precise in extracting the data fields as individual entities without merging or grouping them.
+3. Do not include incomplete or missing information in the output.
+
+4. Handle noisy data by:
+   - Ignoring background noise and irrelevant information.
+   - Correcting OCR errors by verifying against context.
+   - Adapting to different layouts and terminologies commonly found in invoices.
+   - Considering documents in English and German languages.
+
+5. Ensure that names and addresses are not merged or grouped.
+
+6. Provide the extracted data exactly as it appears in the document without summarizing or grouping.
+
+7. Use "Explannation" as a guide to clarify any uncertainties or discrepancies in the data.
+
+8. Be exact in the format, especially the number of lines in the expected output and the data type of each field. Do not extract information that is not complete or provided.
+
+9. Make sure not to summarize or group data; it should be displayed unchanged.
+
+10. The extracted data MUST follow exactly the JSON format provided in the example output.
+
+Ensure to follow these instructions precisely to extract the required structured data from the invoice documents.
