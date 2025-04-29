@@ -1,7 +1,7 @@
 # Promptless
+![alt text](images/image.png.png)
 
-
-![alt text](process_diagram.svg)
+![alt text](images/process_diagram.svg)
 ---
 This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2025, Hamburg. The task is to create an AI agent that can generate prompts given the output.
 ## Installation
@@ -35,7 +35,7 @@ To set up the project, follow these steps:
 ## Progress Update
 use streamlit to see the general result
 >```streamlit run dashboard.py```
-![alt text](image.png)
+![alt text](images/image.png)
 ---
 ### What We Have Accomplished:
 
