@@ -1,5 +1,5 @@
-File ID,Expected Output,File,Dataset,Extracted Text,score,comments
-invoice_recwT45kbPkb2I1jp,"{
+,File ID,Expected Output,File,Dataset,Extracted Text,score,comments,pdf
+0,invoice_recwT45kbPkb2I1jp,"{
   ""total_gross"": 12.64,
   ""total_net"": 10.62,
   ""business_name"": ""SSP Deutschland, The Squire 24, 60549 Frankfurt am Main DTE"",
@@ -13,8 +13,7 @@ invoice_recwT45kbPkb2I1jp,"{
       ""price"": 1.25
     }
   ]
-}",invoice_recwT45kbPkb2I1jp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/sIWadkzCiXluZetc5VwbJA/cDjo9r7JvMPS9WliApFMtmF8Vcvlf-NJ23qHlovDkvcEtLPJf6PEyq9GkpPsqy4Ox-39q65IHKQmzYA_Sa6Wg1uXhDegtCHzGAiZeJMiLu_E06iu9lz8c2UCGRWvxDYIYcvQvKtt3rKK6e3lI5TRwWy0s6xd-CHEMt1Ql0nUTYM0bIO3TadFlUlb2avHtDaJ/hyshuxkL7Q6-TUhiKwMsrWRmQm__rmFtcbD_eUN-0yc),invoice,"
-
+}",invoice_recwT45kbPkb2I1jp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/BmRBsNsmwn44jADfhKqpJw/YjVhmLB3l_b6jcKmT2UmL1jVA4J7Rgm2TQ84y5kQ6x4QBjZncWcmxjR78fYZaZQxSf_NL4gTCnp9JxnRCMUiPR680SiEpD49PhxeaovAOJCtn2bwDlcLrgIgH6gMoz-XpGen43C8qEcGmqCzRk3Dx7H6TQGSSGQsTqV9WbeR4aJNBg2qai4sZALEwzAmkqpK/_okAZWYXNw9-BwlAsR9jbJ9G63px3lRkL8QsOaGKPbE),invoice,"
 {
   ""total_gross"": 12.64,
   ""total_net"": 10.62,
@@ -27,11 +26,15 @@ invoice_recwT45kbPkb2I1jp,"{
     {
       ""name"": ""BK Extra Cheese"",
       ""price"": 1.25
+    },
+    {
+      ""name"": ""BK Cola Zero L"",
+      ""price"": 2.02
     }
   ]
 }
-",83,
-invoice_recx4wg6mwAac34bH,"{
+",73,,pdf_saved/invoice_recwT45kbPkb2I1jp.pdf
+1,invoice_recx4wg6mwAac34bH,"{
   ""total_gross"": 15.48,
   ""total_net"": 13.01,
   ""business_name"": ""BURGER KING®"",
@@ -45,8 +48,7 @@ invoice_recx4wg6mwAac34bH,"{
       ""price"": 12.49
     }
   ]
-}",invoice_recx4wg6mwAac34bH.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/NDFEOPxKGIleT0nXpZvamQ/-7dPgjJovHuGLCba0GEbcY37eew3RP3JRceevjph-2z2_HH99pWV0hrvEl33i89lMO5H-qlAk93cDHTCxvJODtIeUf0C_pYL1pGGtV0o8fGONZj-dPx4Ml2GGRrC5zpFZMIFUvn70snX6dUk6mhdaggkzAFtbIi9OSHVCLoMWzuTGDiGq8sbhrS3Hs3Z88W9/fOmX2slirt8t0UleFC99KKAM0Mn5YqVGGc6Q_Lr3eqE),invoice,"
-
+}",invoice_recx4wg6mwAac34bH.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Vhq5MviTn2yVIxmfHyp1KA/mC70HnG4XQhfS487ZQ7K7N8nyzNyJ13_oR3ebBV5gMOFeJ4whGdetja_Yt57O2fIJIe6RXfpNgwHJRJmeGKOnjR_dk78WtoWmb7oqkS2-sYAIdN3uVcNGmcQIbgQ4-7xtKsLQZ71U2XGSWScyEUShREhV09CSA2pgm6JzghynYJexQR9JUyTV5waHlVOiPNQ/k2HPVZC86vD_mBbaHlK_ASt7YpfCN85E9x9DTdG-d8E),invoice,"
 {
   ""total_gross"": 16.48,
   ""total_net"": 13.01,
@@ -57,13 +59,13 @@ invoice_recx4wg6mwAac34bH,"{
       ""price"": 2.99
     },
     {
-      ""name"": ""Cheesy Rösti Lover Beef Double"",
+      ""name"": ""Cheesy Résti Lover Beef Double"",
       ""price"": 12.49
     }
   ]
 }
-",93,Success: High similarity score
-invoice_rec6jnwamPj8m1u5y,"{
+",93,Success: High similarity score,pdf_saved/invoice_recx4wg6mwAac34bH.pdf
+2,invoice_rec6jnwamPj8m1u5y,"{
   ""total_gross"": 131.70,
   ""total_net"": 110.67,
   ""business_name"": ""Brauhaus an der Thomaskirche"",
@@ -105,8 +107,7 @@ invoice_rec6jnwamPj8m1u5y,"{
       ""price"": 16.00
     }
   ]
-}",invoice_rec6jnwamPj8m1u5y.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/to8kMSnEkcD_bqeM1nemrg/DIXKftemW3nhD4VBvFvL1Wcl777KltCb4bC9oZpDrHX5RgYJcHrWTOoNeZezoWilRQKGglOFB_BwT13wtjivsbJ0Tk2uddC9wnspVODdc0Ow31SpMVbc5OWh2Cqq9b16DCe0gf02xXjWMZzRs6UBSRPZsMFOAV3rwDWDYs6iMxtn7iHQDABuPrzmR-z0SQ_j/LPlwHudq6oh3q_na518QiyI9EWk0fwcdsE_iCYQ6u6U),invoice,"
-
+}",invoice_rec6jnwamPj8m1u5y.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/frAz0jmA0Nk8XbCjyYqjmg/ipyDKyky8-aLt-PrenAt_ckFvTlZvVSzSjCN55nhoHdRQFD7ksnlqDq4eMmmUs6SSFAgk6APNGE-y_wbD6kWEM9w8AnbLBF6y_h2XXJoK5f7_W8FxzAVHqC6m69HBxclIwsX2u7FTvsHekJqaBfR4Y3O4_vsEUaNcM_MXYAB1f2SSN7k2_FKmbo_jXTzceq6/vKtCXro4rOe5XqKnl4qdMYYV8uvvwqCcrLJ0XLvMLTY),invoice,"
 {
   ""total_gross"": 131.70,
   ""total_net"": 110.87,
@@ -150,8 +151,8 @@ invoice_rec6jnwamPj8m1u5y,"{
     }
   ]
 }
-",100,Success: High similarity score
-invoice_recHWC7qGba0eRogA,"{
+",100,Success: High similarity score,pdf_saved/invoice_rec6jnwamPj8m1u5y.pdf
+3,invoice_recHWC7qGba0eRogA,"{
   ""total_gross"": 403.42,
   ""total_net"": 339.01,
   ""business_name"": ""Zweirad-Center Stadler, Straße des 18. Oktober 46, 04103 Leipzig"",
@@ -206,11 +207,10 @@ invoice_recHWC7qGba0eRogA,"{
       ""price"": 0.00
     }
   ]
-}",invoice_recHWC7qGba0eRogA.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/aIompybFF9NgE0rFU4p0_Q/o5osT1VqrZupaHW85hdUy4S8W2qvhM4U0kDhDsylcDq6ScfkqeBWrTIIOgd-UeUkeBeMSfN_c9-4ZsiBzkFEbjFt8kCwv2ZC7GaYJUQG-ztHT-_vQeUHNiQDuGDHHPsg6O4J6lqxvr3Gi93_DGzY1HheRsMbaIO5CmOzojaupzu6h2GCV26eEyMH8jXV1f6H/pmvLCWKxJmfolLuJYCZtX-Q7PKvazivehu1G8fHJat8),invoice,"
-
+}",invoice_recHWC7qGba0eRogA.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/-xE0yfPErXM8UOiRMuJSYA/9BoH39sVzPAW34yXVdNcQ37wdVWBADA_ZxBoXBVzZdanXaFHLHPpioAaJre_mn09pBGcJptFJvaugrhcxf2-s7rryBT01oF8mbbal27B3BqZsfBFkz0kB3LobvjYPVbKQxl6IoVLtB0HZ10TCCE6z1sgxlM7fCEEJtMLD4glHX55AnlAJK2I0lUo0isGA2yi/r6W70ixQ48aVK6luwnHBHHkFyzrEoTQoK6XakLhoaZo),invoice,"
 {
   ""total_gross"": 229.93,
-  ""total_net"": null,
+  ""total_net"": 229.93,
   ""business_name"": ""Zweirad-Center Stadler Leipzig Alte Messe GmbH"",
   ""items"": [
     {
@@ -243,8 +243,8 @@ invoice_recHWC7qGba0eRogA,"{
     }
   ]
 }
-",60,
-invoice_rec9yGb4g2P2NHJda,"{
+",60,,pdf_saved/invoice_recHWC7qGba0eRogA.pdf
+4,invoice_rec9yGb4g2P2NHJda,"{
   ""total_gross"": 12.29,
   ""total_net"": 10.33,
   ""business_name"": ""Burger King"",
@@ -254,21 +254,20 @@ invoice_rec9yGb4g2P2NHJda,"{
       ""price"": 12.29
     }
   ]
-}",invoice_rec9yGb4g2P2NHJda.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/Ixt2kCjBnV302gTk_A-Xtg/XJ_aIUinlYOfbZctzdMw3Bz0Q3JqoTGyoG9atdYAxsLxme5TQrdsZmAHZOysSLWfuTtD4clW6mUwAjlGcPtVubNYVP5WojOX6wAsDYYXLVfNGwupGYglZdv8rpM8f8YQP7RLZlH7SnV4sItLLHC_C6vcPF8VVLm4Jt3QCedR0zCC5N2p_i7LbFKIX9731y-e/_G3B-YXpRsQ5NHrG3-EMzf1zT7Yxw5jQACTj5amVLzk),invoice,"
-
+}",invoice_rec9yGb4g2P2NHJda.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/LPDwW5R6f9L9GkEODuaXgQ/IHibbNwiVUcGk6q2HWI_pmoHPDsVCRGuMQCdrvnwHErjctIb8punCnSSiFlN4xEmU4npEalYaizosp6Fs67gS5zuWLQwCL7Mr3RdW_zdXG40zw1N1kjjIpZFd3S_Sss-hzcUbP4ZHICdhq3f4A75WWn8Jc54QjADHPf-hSIEdhoqdNoJH3S7hjV_kzuWfFY_/v43k5rrdGEZMYhcJ1z7XZHwFj352dT5DnmSFDsZ4TZQ),invoice,"
 {
   ""total_gross"": 12.29,
   ""total_net"": 10.33,
-  ""business_name"": ""BURGER KING®"",
+  ""business_name"": ""Burger King"",
   ""items"": [
     {
-      ""name"": ""Big King XXL® King Menü"",
+      ""name"": ""Big King XXL King Menü"",
       ""price"": 12.29
     }
   ]
 }
-",94,Success: High similarity score
-invoice_recYsN9Su9On0ER58,"{
+",99,Success: High similarity score,pdf_saved/invoice_rec9yGb4g2P2NHJda.pdf
+5,invoice_recYsN9Su9On0ER58,"{
   ""total_gross"": 15.79,
   ""total_net"": 13.28,
   ""business_name"": ""Burger King"",
@@ -278,8 +277,7 @@ invoice_recYsN9Su9On0ER58,"{
       ""price"": 15.79
     }
   ]
-}",invoice_recYsN9Su9On0ER58.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/l9KRrGkbEaMdnJ6a4SyA3w/5gH14-oq4ia-ym5VYaAuzAcJVYq077FpzrzrwDoCD6vJY7dlggrWkppy52Vsknvtk0n4dGL-9MnqYNIx9dtnQRN8acT_0Zvi2yDL5n6a0YHqKAe9onr66zSoOE07T2OPYLHG1YL68NgtPXWCaMmFJtmquJ5Z-7kZHc60UNW5ooz2YmZ1YvVog1aPxdxxC1QR/nOiEgJ1ecm2SWU2EldOPUHjM5bLEowt4KAs3VRx9FMY),invoice,"
-
+}",invoice_recYsN9Su9On0ER58.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/g07SX8nX6zQTN0fLzbi65w/CJh8ukfqvJY-AO6a-Dn8l8mrafIJXDjWHt0zVzv9L9pV02Kmp7O8ifY7qkO_okYSnLV7k5tIt5MjlMVqQRUfUKJU4kGAr7iNYZm8wamgmpZ9LPUy100n8uaql8tr99h41bFVsyB4BpgxSRzMk5Y2vBy9XQGGYwoUTvmXmDRqCsO_M88qVkVeXrjX-VvOPOQU/gWd1L4GYSxXJwX7JGxby4fBNYhKRXWueUoxfBgk7LUw),invoice,"
 {
   ""total_gross"": 15.79,
   ""total_net"": 13.28,
@@ -291,8 +289,8 @@ invoice_recYsN9Su9On0ER58,"{
     }
   ]
 }
-",96,Success: High similarity score
-invoice_recVLrTGQIsXWavzz,"{
+",96,Success: High similarity score,pdf_saved/invoice_recYsN9Su9On0ER58.pdf
+6,invoice_recVLrTGQIsXWavzz,"{
   ""total_gross"": 209.40,
   ""total_net"": 175.97,
   ""business_name"": ""Chito Gvrito"",
@@ -342,8 +340,7 @@ invoice_recVLrTGQIsXWavzz,"{
       ""price"": 6.00
     }
   ]
-}",invoice_recVLrTGQIsXWavzz.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/qBVWzrzg9EGq4t1Bxek9Qw/rpToD8HNL9B5lJjLhp9Py2ilbLMp9LOCsoIOH33Z42AXVIaai2vLqA3wIfRTsSTzbIx0G3vslSyd3LKgDnDnS4JS6u_gMaG2cF0hYeE5ZtJR-6RiuNzpdU7Gah4gbZvFtMuVRuGrnVC11SANwMoC03O-m1IiredRzaF4VfMBr4EMfdYURypcet9rH3uW8Fho/aKTNB03S-iC44spvs146lQ5PINe-xA69haZr8rs9Iwk),invoice,"
-
+}",invoice_recVLrTGQIsXWavzz.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/ZOWM7sF5CwNj9J0jv46wSg/e7hiV2RAHADYEAu_HNS5-Y5MqscSJedYS0fuyz4r7Mrz8XW95FhIfJq35W7yg3y1dLJprtDVmFKPmTCTJFMusxVQs_HnWg9hN7YtEOG60j6Kn2dJ0L41Zmclf2VxvJDyB0uzUIOM_XrtUecJW-rtXd78G9AHi-4YNi6G-rks0MGqaGPIgMnVe9ydXVUCqSxw/GGvZNMjfapOTZ8VIHvHrVT9GhmTi2d-hcGYwEv-gKuY),invoice,"
 {
   ""total_gross"": 209.40,
   ""total_net"": 175.97,
@@ -395,8 +392,8 @@ invoice_recVLrTGQIsXWavzz,"{
     }
   ]
 }
-",90,Success: High similarity score
-invoice_recegdkB6dUZaZREr,"{
+",90,Success: High similarity score,pdf_saved/invoice_recVLrTGQIsXWavzz.pdf
+7,invoice_recegdkB6dUZaZREr,"{
   ""total_gross"": 146.71,
   ""total_net"": 134.80,
   ""business_name"": ""The Cloud One Hamburg-Kontorhaus"",
@@ -406,21 +403,24 @@ invoice_recegdkB6dUZaZREr,"{
       ""price"": 146.71
     }
   ]
-}",invoice_recegdkB6dUZaZREr.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/vIyaJXj6cg_lpahoaJvCCg/xyVb0lQJh39Fi1sukcb_ihnumQlfPX7JD1ugJ4zjDsjYXTfBsjzxKjFd3VtvHjXmcaZfHxV96X0U_YjYtwrwaDMR96wuA1aSuHdocB6IYNHdCXXG8CkvpT5J4tkbk_PbotsqQs6ZeJ_wKtwr516IVP7g9z9QZo1vaPDe0f72LxRkKKumTR8-F3XWJalJEp9J/J-VabxBckIOCvT7gPDdMAwrqTK-HjSDvxW2N2KGtjIE),invoice,"
-
+}",invoice_recegdkB6dUZaZREr.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Uqq24abbysLyY9ZEF6uLXA/Y0NEhEfPXxiZej75rU0BpIwYh1kqfL2UPYKpcpasux2MCXLcWwHMRMiM6XXZbA9XZeZxRtS8fP43hlGXr6sntrT85zDEmYAdslpO4V5wEM_P8ewZkBvbrRNMGfXi1jY4t-nhTwj0Ca1lRv7hSvaIXY07qsa4QxJ9oaMXyrAPg9ITQ3GB7E6f5_rpdLKL9r5r/VxDCpGJZ6ainjUwpIwP4dFWKCsVSXM-AMmD2XZx8OEk),invoice,"
 {
   ""total_gross"": 119.00,
   ""total_net"": 111.21,
   ""business_name"": ""APImeister Consulting GmbH"",
   ""items"": [
     {
-      ""name"": ""Breakfast"",
+      ""name"": ""Room Price including Breakfast"",
+      ""price"": 111.21
+    },
+    {
+      ""name"": ""Breakfast (VAT 19%)"",
       ""price"": 7.79
     }
   ]
 }
-",38,
-invoice_recp4HVkuHiEIxUGK,"{
+",52,,pdf_saved/invoice_recegdkB6dUZaZREr.pdf
+8,invoice_recp4HVkuHiEIxUGK,"{
   ""total_gross"": 64.99,
   ""total_net"": 54.61,
   ""business_name"": ""Deichmann SE"",
@@ -430,8 +430,7 @@ invoice_recp4HVkuHiEIxUGK,"{
       ""price"": 64.99
     }
   ]
-}",invoice_recp4HVkuHiEIxUGK.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/zcdQD1xRY4XhverkX2tfbQ/OHZ7mse_PvYmA1fOZhKU-1ijVp4PYFQnpwJ7vCZQ-Efa6aLcukydbgKPpUEq1obGGrgn9DjlsaGKPcvQ_NdTDvNN-VIR8VojSzsVEO3pgWeA4_2NZ9CX1ycbjQqFbCVmNkOhy8Uz7Kd6p6fj2_8rJMN6cc2uVs-zlIApgYGvd8luB46kbb6GH11PoMODT9nD/8YsxPiAffCnGrXzWpNHdRUcPH2uYg17sNuRYz77VCyk),invoice,"
-
+}",invoice_recp4HVkuHiEIxUGK.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Yxo6kFi3Td0KVZMcon3YnA/SdCVohrwKnmzDJ-DX-nWVKfQvJaWw0TzfiLOgy3YN1QOD8v9eYEDLC1zXZd4Y0Ck0n5NWzdSM-YRqFiNSVON4pkbpbdTO1297ysI7fxnN3WFGVRkmG5_J5hED_7lrKM4bkKfyF9xDBytxsfStqXt4p_jwdxOxBPwF1Z53ltHZnR-tVZab_koKKc-6YrJbTyD/KxRzH72ad2S_DrVYbV8jKPBjAkFdPDRdDG00MRF8V88),invoice,"
 {
   ""total_gross"": 64.99,
   ""total_net"": 54.61,
@@ -443,8 +442,8 @@ invoice_recp4HVkuHiEIxUGK,"{
     }
   ]
 }
-",99,Success: High similarity score
-invoice_recFZbWJ4SV9foXR5,"{
+",99,Success: High similarity score,pdf_saved/invoice_recp4HVkuHiEIxUGK.pdf
+9,invoice_recFZbWJ4SV9foXR5,"{
   ""total_gross"": 4.60,
   ""total_net"": 4.30,
   ""business_name"": ""dm-drogerie markt"",
@@ -458,8 +457,7 @@ invoice_recFZbWJ4SV9foXR5,"{
       ""price"": 1.95
     }
   ]
-}",invoice_recFZbWJ4SV9foXR5.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/3WRIf8JiIDt-fkoIlqcgaw/vcv3LoFbSdLKokRaSPj1FRde_kaRxRQedL4-z7nuuY4DMBYhDPbDCq9s7UpKitdMG3CpTn9Byo63-7E0HTAXdSREBlGofk9I1iFxkG1xEsJgRncCdDX7U-vPpdq_oyrSIBCuUrS8xyXoKZtFTIaeGuGjmMC5BPcRgLyCvgn0vDQSDvndWSE0XpBYvKqhj6Vk/9vsWPS5cq_GkPcQmiF_WN1I3upbFo-uDaDWEPbIL948),invoice,"
-
+}",invoice_recFZbWJ4SV9foXR5.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/GUacHyeqmo9WO_w9eOeOTQ/pkwAiTupFm5AHdf8NOOpXJCPcr_9_1LziVZfN9OivBihW4nEOgfijwTiJYqTqUPLZ_jMxVFqra2bwAqKpTev01JkhqkSFCYyFbU08BDgeuwyH-1yQaeUaZV9_Kjezep0tllpAU1VAmwZiCAh7dW8Abo9uQGdvgXKmkxORnnh2iU7fl-FwMcRBPcVviCuZZ-R/0iL-l05YKCKygVTjuf_zSzjB0GDJ_gFrtDgNcq5DDwQ),invoice,"
 {
   ""total_gross"": 4.60,
   ""total_net"": 4.30,
@@ -475,8 +473,8 @@ invoice_recFZbWJ4SV9foXR5,"{
     }
   ]
 }
-",98,Success: High similarity score
-invoice_recdlroCOu1RyjeqE,"{
+",98,Success: High similarity score,pdf_saved/invoice_recFZbWJ4SV9foXR5.pdf
+10,invoice_recdlroCOu1RyjeqE,"{
   ""total_gross"": 73.80,
   ""total_net"": 62.02,
   ""business_name"": ""Cyberport Store Leipzig"",
@@ -490,8 +488,7 @@ invoice_recdlroCOu1RyjeqE,"{
       ""price"": 36.90
     }
   ]
-}",invoice_recdlroCOu1RyjeqE.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/4KwZ1lnCuF6hyc-uqp4X4g/dpcNoaFo5SrnPe0Z6BzzDHHjYgN93kniJ_kwpp0aOscQdE-jkNcVnCVhw-7ib78iNPsaVNgZlgSZfqao6gNT4ks5OzHkw-1mkFzB3cBZyjPFzUUEyqUPMO9icT1Hy1H90R-1TQ3D3nWN5j4BaJRO8B1toQ1p5UI2Y-JuNvI2FyKay0Qea6nYMJz5H5kJ3zjQ/lkYwZ6y1EbCv61L5gwvDjklHQdzkubWzS6U6Bpc2kJo),invoice,"
-
+}",invoice_recdlroCOu1RyjeqE.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/jtzdoICvzj4wQmlICnCVUg/Gf2yyRxXfh6wDgEYOQFW2_CmPtwBAoVMjq-dOvOPclRXv_8njP05zOxvJCH2OH23RxTmlsTkrOoqFQZWBQcahq2725Xg7WNwT45YceZJH_JBRbMfCRqyUEWCgGGGhjIbETfRP24Ky0_Gcbr7zcz7Ou9f56M6soP-rI9kzs_aWdN6NETqba6mvhqBwYP9gl4S/WSsm5CXUYk0MJRCuYrBA2f1X4P2fKpTrvBmdxw8zOtc),invoice,"
 {
   ""total_gross"": 73.80,
   ""total_net"": 62.02,
@@ -507,8 +504,8 @@ invoice_recdlroCOu1RyjeqE,"{
     }
   ]
 }
-",83,
-invoice_recTyYF4RD1TGZ8bv,"{
+",84,,pdf_saved/invoice_recdlroCOu1RyjeqE.pdf
+11,invoice_recTyYF4RD1TGZ8bv,"{
   ""total_gross"": 13.50,
   ""total_net"": 12.25,
   ""business_name"": ""dm-drogerie markt"",
@@ -530,8 +527,7 @@ invoice_recTyYF4RD1TGZ8bv,"{
       ""price"": 3.95
     }
   ]
-}",invoice_recTyYF4RD1TGZ8bv.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/G9i2AzFbFfX0f5XVE1_ZKw/koc5nWfYBl82FuGq_s1OKwanED2_QhXQ-J35BaXlUvEQkZDf6HcnR4GcdLdvn5numthxJHWXZfmbzSQk13HVXgcys-zky09La2ZTmt98FZ8v0NAEvPve1S7jUAK0k-eM3TT59FHlMAwRya12MOQVNmDDSAQVrJNi6-RJ7CeHtoVYVZ0wrV_PBq1usZBfg-3s/Ts0fK5Ii51T1lXo2A6Lb09CVjtincKADsKBtHPsZ-KM),invoice,"
-
+}",invoice_recTyYF4RD1TGZ8bv.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/vv09Nom9CDXn5bItIqC8bQ/gbsAofTbOsTvRcibgVLauo01nE7B2Y3BV96gMV5Q85m7FVvW0qC4aEtiwbhUAR-m4blJA1lkC1I4x8CFJq_EUturvXXAaWmErbdRQdgT30kigT_vGvOdSWFSVccl_ySHeFevm1Yy6UqmTeEIFGNtYbN_ArfXU1SalLeodyTJKAuihzGHsBWp-SUT8FzlivRD/aptVEXA1yJswd7G_5SoTCUo-BmlCHXPsv1K4VbjBhiE),invoice,"
 {
   ""total_gross"": 13.50,
   ""total_net"": 12.25,
@@ -555,8 +551,8 @@ invoice_recTyYF4RD1TGZ8bv,"{
     }
   ]
 }
-",98,Success: High similarity score
-invoice_recgDb5Sy3oFtu7Fo,"{
+",98,Success: High similarity score,pdf_saved/invoice_recTyYF4RD1TGZ8bv.pdf
+12,invoice_recgDb5Sy3oFtu7Fo,"{
   ""total_gross"": 6.60,
   ""total_net"": 6.17,
   ""business_name"": ""dm-drogerie markt Grimmaische Straße 14, 04109 Leipzig, Deutschland"",
@@ -570,8 +566,7 @@ invoice_recgDb5Sy3oFtu7Fo,"{
       ""price"": 3.95
     }
   ]
-}",invoice_recgDb5Sy3oFtu7Fo.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/vdMJuQyPgIx72WXOqB1XLA/il_hXeM1IcKdBdLY-lY3-jCsveJM10Zx2THGdyXUwDfK7fjsHQ7a5LsOkuQVFAN3t9mO6hsiN9H8b_EHPIbXNLj7lVpVV2E99zND3zHEBX7BDiND18mAitGG7QOgH-BqbBXDTEtUMC35inz5knnZUt9PWkwt6FEkLN8ClVmhxT904J0HU1M_0JNUvTOZpigC/IFQJOwU7Kgix4AWgYrSi8eP7oaWfxe57q7ZEjv7UTk8),invoice,"
-
+}",invoice_recgDb5Sy3oFtu7Fo.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/5tnAGfHJFbUOHkmjo3ay6w/8hMA5xqEER1w_riUaEr_yDQ6VOI5witGGrFej9zBLlhNAcIVlgzkytpK5o-SZFrO-omzpIhWZm4aKamgopKQnqzoVxeh5nwk6LG_AvZ2ak1_hTILAxhbtEh8o_0FX4BpMx1t6xo9SFZf-KJAw4NzuB7v0k39imt5YfgH4HcWSGyIoWawDk8YmXIoQn0-MQEI/R7AuBIXx01R9lUpCfU4nUxkhB48U07WAbDLb9CJgwRA),invoice,"
 {
   ""total_gross"": 6.60,
   ""total_net"": 6.17,
@@ -587,8 +582,8 @@ invoice_recgDb5Sy3oFtu7Fo,"{
     }
   ]
 }
-",90,Success: High similarity score
-invoice_rectSMsOc2o2ZggMB,"{
+",90,Success: High similarity score,pdf_saved/invoice_recgDb5Sy3oFtu7Fo.pdf
+13,invoice_rectSMsOc2o2ZggMB,"{
   ""total_gross"": 84.10,
   ""total_net"": 70.67,
   ""business_name"": ""Don Giovanni"",
@@ -626,8 +621,7 @@ invoice_rectSMsOc2o2ZggMB,"{
       ""price"": 12.50
     }
   ]
-}",invoice_rectSMsOc2o2ZggMB.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/oyjBuoveMUUEBZ8Gv-D-mA/key2tXsJQLibYi9CKS5XyaoN_5NkLwQjT_v3JaY54LRp0UnhOA-pC2ogFwukjjkotynmAI8-YgieXUkv0uf7_cAW5i-kQ7ZDP9R6hc3AdBJKDIsNiV1Y-fbsAImNK8bl9Y7qJTLwhG5PmftdXbw0-ge6-LrzgT-GMVrLlepe0qMjRZLNcMxOLlBq9ylMMyW4/p296l21l-lvMB_I9sqv76iuBlz5pKfCzXQJnxTNIkfc),invoice,"
-
+}",invoice_rectSMsOc2o2ZggMB.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/xk5ssZLmJGT3TqCc17DwAw/W4J07s5IWD4cp0GGka9qhoevaQaW8DWT4mfTMWfeB3y2FO8Hd1FW23zeAEdQT9D54bjGg8BvvLIcyMmUxhs2MhtdE49cKLJApf8vk2Mcyez5o9v9IOuJVj2HaSyqRXWQKQ3UFXWZLqEMcHIiVUOrKaAFv3tLWBK6Epi44bZE1kHzikiKCQYSawz7F9Wkx3J1/V2UXY2EkcEBC6LDlIj1lVTFBHaC3hyqmMe29cNdLzRM),invoice,"
 {
   ""total_gross"": 84.10,
   ""total_net"": 70.67,
@@ -667,8 +661,8 @@ invoice_rectSMsOc2o2ZggMB,"{
     }
   ]
 }
-",94,Success: High similarity score
-invoice_recrhmZAxkVJLxvOK,"{
+",94,Success: High similarity score,pdf_saved/invoice_rectSMsOc2o2ZggMB.pdf
+14,invoice_recrhmZAxkVJLxvOK,"{
   ""total_gross"": 54.75,
   ""total_net"": 46.01,
   ""business_name"": ""Cafe Extrablatt"",
@@ -694,11 +688,10 @@ invoice_recrhmZAxkVJLxvOK,"{
       ""price"": 10.95
     }
   ]
-}",invoice_recrhmZAxkVJLxvOK.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/4mNanHH3rS_NKT51Cn2RBA/eubS3PC4BTSgsdy_Bg9b7Uuit2sq_bENyi_GGCaSHRVUUxkLsnwPsL-8McBjYL9A2pqq0qkGuZukotcM4Ih9ytt1IWY83Vu-rEpXTpE-QVQeAcJs5FTP6XLaMASs_x_l_trD1GLHmPYcSSE38o0A54lLc4_8EqHijC0NbslYZOdHLu62-yQEiKUYv7-AXtLi/2pDgTycqz_Daqy9QPqsk9lpd6vraWBi-apQC1wjEvmI),invoice,"
-
+}",invoice_recrhmZAxkVJLxvOK.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/JFVK5HSh98MAcK8ozY-Uqw/0EpXZkAMpWpgbNi5fU1aVU_Q70Ncomxn25OcJ1tINODl5sQnkHVoMDC7GRdCQniGHE6PSgELcy4HbFTimuJYunwS1PD_g4Jd5hB48_9e7T7ZElC3tu2s2QhVZiPoyerhs9Ky4aweICJczD9KI7mgsdF5N7PmqWCZahsIKOCrE01lUDhqDUp1uqK8m5Fnz6r-/MjisvLi5Wjqp9KzSE5fCmHFlkuyFEdSMkICGYGD2qys),invoice,"
 {
-  ""total_gross"": 54.75,
-  ""total_net"": 46.01,
+  ""total_gross"": 60.00,
+  ""total_net"": 54.75,
   ""business_name"": ""CEH Gastro GmbH"",
   ""items"": [
     {
@@ -706,12 +699,12 @@ invoice_recrhmZAxkVJLxvOK,"{
       ""price"": 3.45
     },
     {
-      ""name"": ""Gr. Schüml Kaffee"",
-      ""price"": 5.50
+      ""name"": ""Gr. Schümlikaffee"",
+      ""price"": 22.00
     },
     {
       ""name"": ""Beck's Alkohol frei 0,33"",
-      ""price"": 3.95
+      ""price"": 7.90
     },
     {
       ""name"": ""American Breakfast"",
@@ -723,8 +716,8 @@ invoice_recrhmZAxkVJLxvOK,"{
     }
   ]
 }
-",66,
-invoice_recaRfVgkqFM1Pkho,"{
+",92,Success: High similarity score,pdf_saved/invoice_recrhmZAxkVJLxvOK.pdf
+15,invoice_recaRfVgkqFM1Pkho,"{
   ""total_gross"": 22.49,
   ""total_net"": 20.25,
   ""business_name"": ""HIT Frische GmbH & Co. KG"",
@@ -766,8 +759,7 @@ invoice_recaRfVgkqFM1Pkho,"{
       ""price"": 1.99
     }
   ]
-}",invoice_recaRfVgkqFM1Pkho.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/OaEj_KwLiDGrrv5mn9eYhQ/dMxErps9ajlRmzK5bo7rf1jwpAILLC3JJhb8NUep6k4iX3fPEXDf1vprM2DcfjGNI0ZevH4d-zZNYkUYA8NErZbtGy_LIrP46_oxF0yNzGq2cR5NSetdmOcnJVVFdjhGO_OnhmOALrV3XkRNiJtZuNCM7XGixK0vLn6bxPYE2EPTMm1oPYB7e9JXNwQVAWIH/4EsnqCt_6_BFKrpSPkICtCJ0eYMH9JZ7fu9nj0Av1Uw),invoice,"
-
+}",invoice_recaRfVgkqFM1Pkho.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/x_e9D_4Du8Xud6P09VUFWQ/uomJKJwF7Yj8xey1-i9FjWrDvV2mtj3BXZcu8TjcpbQnqwV-4WxL6zAp5Oltr-aKtUQqfZy-kkXxNCBroNsLsalZPZbOzZiFezQXxyTCleFuUK5FoodXNGjmpXYF7DLcSQWsTFk8B71aSlY3d30LyRmPiCXDs-tQx5Isk0CiHtD8IU0ETTCyunW8zSZsDmPs/tkJsoVRaTbZI8a2zDZpVuwoNICupspR9Qunm8Gj0eUk),invoice,"
 {
   ""total_gross"": 22.49,
   ""total_net"": 20.25,
@@ -811,8 +803,8 @@ invoice_recaRfVgkqFM1Pkho,"{
     }
   ]
 }
-",98,Success: High similarity score
-invoice_recjlWooL6XMcsS31,"{
+",98,Success: High similarity score,pdf_saved/invoice_recaRfVgkqFM1Pkho.pdf
+16,invoice_recjlWooL6XMcsS31,"{
   ""total_gross"": 13.75,
   ""total_net"": 12.85,
   ""business_name"": ""go asia Supermarkt"",
@@ -838,8 +830,7 @@ invoice_recjlWooL6XMcsS31,"{
       ""price"": 2.59
     }
   ]
-}",invoice_recjlWooL6XMcsS31.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/ykqHy65D7l6foAXiJsAS7Q/OEeYiVVc-_Vg-X9-HRhAo4NHyi27ydKQSbQhRgMjfE4fkiO1S4yGt-0Byyikw8eTPH3W9HUxJbPYRAbJ6KW5BzEK8M99d5QwlnJ5yNQ26hOtXTCqExOfdchrt_7YVnFY_a05Kf2j48XFKmh8X2S4-_EGw22Q-MVfkyGNcKDxa5nmy8_9CoeViFE7Qu8Af1wu/Uwan9l0RC4YobH_L6QLotnyCJ8WI9sa2cKnv1a_76d0),invoice,"
-
+}",invoice_recjlWooL6XMcsS31.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/b53ZRw2c61ec7KI3rRDFKA/_WIlw0T5syJwYHtnFBSrfDiFrm9w8HRWvlIV7iO6pBBVLo88ypE_R9-eUXH28IWJ7s3u5ng4sUY7ld5WRc5MdKILEDz4BsqM0yc5QfWkz9FeB8y974oeYCASUZwiaVSc2mqnCwBCReEAkkSeQTRYoI-Xj3uTeGe7b4bSC199V9EXTfRll3slMdTkQK6v7G3-/BGnzx15jzCERhMtjg3-esHDJk25gDsDQ2x22cKIUcso),invoice,"
 {
   ""total_gross"": 13.79,
   ""total_net"": 12.66,
@@ -856,19 +847,11 @@ invoice_recjlWooL6XMcsS31,"{
     {
       ""name"": ""Milkis Milchgetrank Soda 500ml"",
       ""price"": 2.39
-    },
-    {
-      ""name"": ""Waffeln Sojamileh Geschmack"",
-      ""price"": 4.26
-    },
-    {
-      ""name"": ""Kaffee Bonbons mit Vaniliecreine"",
-      ""price"": 5.46
     }
   ]
 }
-",70,
-invoice_recJ8V0Lvp9Q2dguR,"{
+",58,,pdf_saved/invoice_recjlWooL6XMcsS31.pdf
+17,invoice_recJ8V0Lvp9Q2dguR,"{
   ""total_gross"": 270.30,
   ""total_net"": 227.14,
   ""business_name"": ""Steakhaus EL TORO"",
@@ -930,8 +913,7 @@ invoice_recJ8V0Lvp9Q2dguR,"{
       ""price"": 7.20
     }
   ]
-}",invoice_recJ8V0Lvp9Q2dguR.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/SAYs2TsvOPnKOUNeI4y8UQ/2Xs7Cguxvz8QEM8ouj8BJLlvzhEHaCzx38yjhnGoTEgHfXhFMPPaO55-5zHspqdZLpl5EhBsDCijdKLz20w6kx3jMyx6KbnS-Vot1oiRQMr32xi3QglG-gvclVFOI93TJnJGBne7oWDEZzU5P9I0u04JLVFWYmCSk4YzresMXYY_8wG-U1FynK0Bn7_6OW-c/1Wio2aw3vxNipje7zsAn9d_6Y6OW5JhmS6VwZ6qfWbw),invoice,"
-
+}",invoice_recJ8V0Lvp9Q2dguR.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/uoYfcQUtFPwSgPWEFIqgGg/acKATnv2mlhvbkTRjht2kPyb80VqWF-g_5kW7tz-Z9_gxIdmN3hvk_Ftsq4EY11VO_5_EuGGDF-R4wQenr_6rpxCyh_OApLzP_Kurwp3tb7Bo_Za0mQjVQQAnaNDCC4OVmW4Kz6nrFJlZFfuw4S5rR12OgvHwTxsOMmOU0Js0BTFLdBwBLwqqczPcEMl9NdL/d6Gh_jLn-yOIpCHk58SZNrFW8x2m9_cq3E9XugF_7Bs),invoice,"
 {
   ""total_gross"": 270.30,
   ""total_net"": 227.14,
@@ -995,8 +977,8 @@ invoice_recJ8V0Lvp9Q2dguR,"{
     }
   ]
 }
-",66,
-invoice_recFVad91IksK2PRS,"{
+",66,,pdf_saved/invoice_recJ8V0Lvp9Q2dguR.pdf
+18,invoice_recFVad91IksK2PRS,"{
   ""total_gross"": 161.30,
   ""total_net"": 135.55,
   ""business_name"": ""Restaurant Herkules"",
@@ -1042,8 +1024,7 @@ invoice_recFVad91IksK2PRS,"{
       ""price"": 18.90
     }
   ]
-}",invoice_recFVad91IksK2PRS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/CBgulWH5Ov8fZHoSX18NJw/a4UP5oId0KEk7gBZFHYslPrCSmJvW8smkIgxP4weT7tpfHE7B3t4job7b73kTjrAJl_ikzd5br9oxMjIwH4-jx4ENVInXM2pe50zQD7HlGiWa4X53Rp7DxDlGmDuw375QoKPZO6CDPcnjyeCb_pxhsKG9gM2BsxROol55TsfYaS524_qCZo1LpeKOzS9vpH_/FPFFx1kMQo6qm-aY5AUCOE28x6gVWbwurUj60k_T_Ak),invoice,"
-
+}",invoice_recFVad91IksK2PRS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/dym6saiU4lbLMcgJfyW4Yg/YjqeTvZMr-fwSlnXaWhHZfkXBOytWDAfho92P5LIZcO1ZzQGb81JotaLvXFMSn3N4IXNnoZPy7EH6Tk_neaJBvqp3RR7SUt54kLD6nR5JVHPmRKIXm1Oy-WXR54JLXfhABmDZe3L9KqPOZqUGMqigmLvMeHw8J4kjFc3DBGcRM2Yxd-geUE2VDvEW0nZd-nn/rz7VNVNKese_poTlHs1dUqQwklZZ7lzQpS-hzTGGXpg),invoice,"
 {
   ""total_gross"": 161.20,
   ""total_net"": 135.55,
@@ -1051,11 +1032,11 @@ invoice_recFVad91IksK2PRS,"{
   ""items"": [
     {
       ""name"": ""PILS 0,5"",
-      ""price"": 5.00
+      ""price"": 20.00
     },
     {
       ""name"": ""HEFE DUNKEL 0,5"",
-      ""price"": 4.90
+      ""price"": 14.70
     },
     {
       ""name"": ""PILS 0,3"",
@@ -1063,15 +1044,15 @@ invoice_recFVad91IksK2PRS,"{
     },
     {
       ""name"": ""APFELSCHORLE 0,3"",
-      ""price"": 4.20
+      ""price"": 12.60
     },
     {
       ""name"": ""GIQUWARLAKIA"",
-      ""price"": 6.80
+      ""price"": 13.60
     },
     {
       ""name"": ""TIROPITA"",
-      ""price"": 8.90
+      ""price"": 17.80
     },
     {
       ""name"": ""KALAMARIA"",
@@ -1091,8 +1072,8 @@ invoice_recFVad91IksK2PRS,"{
     }
   ]
 }
-",72,
-invoice_recMytYUsgJeNIvMn,"{
+",97,Success: High similarity score,pdf_saved/invoice_recFVad91IksK2PRS.pdf
+19,invoice_recMytYUsgJeNIvMn,"{
   ""total_gross"": 24.15,
   ""total_net"": 20.29,
   ""business_name"": ""FIVE GUYS GERMANY GmbH"",
@@ -1110,8 +1091,7 @@ invoice_recMytYUsgJeNIvMn,"{
       ""price"": 3.95
     }
   ]
-}",invoice_recMytYUsgJeNIvMn.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/5wEwnVSHNSCzAp6zvQhH4A/VqpL51sKZCIr1n5HNcJoRTYMR8boa3y5AloaHyRCSfmjMmLdBXN0x7BW3OEDO4xPCvMQYkda37fm2QXfAfb9PEz8H3rmR2tOVdxZZXrw92W82mfqS9KYt2Qt401PcgoOhfqwfJWD2THOfTHBY_zlEeEHvcz6j-iQjCACKY2aTy2x44AgTyVqVoXSXSGbFnPp/DWjfWI9JSvVrZ7ujwMxtCTEAtrngYAsExJSCqqelgd8),invoice,"
-
+}",invoice_recMytYUsgJeNIvMn.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/kxT6-Z4CxeRunIgerHBbaA/_MR2Dm408-h26PYYLvZVKQ8beW7cPeJQqyDxM2svFrhD0PRQp3ERA5U3PA-YR6xlXRhqvcaWU3HP6-nzMva3vV92uneoqm0sFsGjJRYjkqdT_kQER58hPCy19nXNR3sZLNV8lTKO5ivtXyqLr6OgooVYhwwIM4BFcd6-puQkN4o-8YQQMCx60Z-0okavkA1c/uz8vn7WerqRMwbj7vUMNSfuv2qWx7GeztFUMK0Dm0mg),invoice,"
 {
   ""total_gross"": 24.15,
   ""total_net"": 20.29,
@@ -1131,8 +1111,8 @@ invoice_recMytYUsgJeNIvMn,"{
     }
   ]
 }
-",100,Success: High similarity score
-invoice_recjghWDGwQlrE73F,"{
+",100,Success: High similarity score,pdf_saved/invoice_recMytYUsgJeNIvMn.pdf
+20,invoice_recjghWDGwQlrE73F,"{
   ""total_gross"": 112.99,
   ""total_net"": 94.95,
   ""business_name"": ""MEDIA MARKT"",
@@ -1142,8 +1122,7 @@ invoice_recjghWDGwQlrE73F,"{
       ""price"": 112.99
     }
   ]
-}",invoice_recjghWDGwQlrE73F.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/ue4kbXMJAybG0IQBDYfnDw/oO8EzbaLAhS-LCzjldeKhmxGU75XIJIW_mkEfhS2IA2LnfY9z_DlF1yjEUNh1QUJlkKJg-8e55lf4zBUEyK5VXJ4FLwQchs0SSbWArOcZO6hqhwni01X--oJMiVt4DI8pWV9CDdG5P0YUL-2bxbCrTd4Mefuo5HOVPk_XD7n9tWiJSdI9lv7_FGBjI5KC_zo/QQRvc8ZwupCwO91e-sZDj9_l79jpaN74Ete-SdIjBFc),invoice,"
-
+}",invoice_recjghWDGwQlrE73F.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/6TrvvZPOvZ0_Ati32qhyHw/nARCn8g3SPgU0zrzc0XM5Rt4QrbfWmO1zMzhp0motiEYz-5QkQ4E20nIBMSF7CC9x1_cpf-rqZ8vkGxz4ed0fCIZehv9OB21X1gIjSpvE_OpFVhxsZZfRwwHqHZ3LuSKqr__LOBhMY2UtSx4vvKZUNX5Sp6_AHCiaX8eGwGaFR0DTRxdRUs1yxdVBvzgT2Tn/UgbD2q2wT-At0NUlJO06szBctRJ5p-eygRj5hMF2PXk),invoice,"
 {
   ""total_gross"": 112.99,
   ""total_net"": 94.95,
@@ -1155,8 +1134,8 @@ invoice_recjghWDGwQlrE73F,"{
     }
   ]
 }
-",91,Success: High similarity score
-invoice_recc2k6CJbofrzPXc,"{
+",91,Success: High similarity score,pdf_saved/invoice_recjghWDGwQlrE73F.pdf
+21,invoice_recc2k6CJbofrzPXc,"{
   ""total_gross"": 9.90,
   ""total_net"": 9.25,
   ""business_name"": ""Ludwig. Unternehmensgruppe Dr. Eckert GmbH"",
@@ -1166,21 +1145,8 @@ invoice_recc2k6CJbofrzPXc,"{
       ""price"": 9.90
     }
   ]
-}",invoice_recc2k6CJbofrzPXc.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/a8vgsmZjSqdA-xU4FrXxYQ/C3nNeqR7chjLt4GOpUiDPAk6b6K74qhUA_RlG1UFBSymd2Jfqt4UYLmjI5sehBbKn4OjhrQBeGuxF22zuwgnN3lkWnvposwh_eckVPq9enjKWihCfjTEtKtJQA7Q58FktbQFwlCiIP_DT8DsApmThIKJFYwP5a9L6-9rrmXu1jDLKD497cj9okGlAYodK4M6/DEDqCJqzU3tyBLdhDraZLN51610eaY1m2o-r5kC7obk),invoice,"
-
-{
-  ""total_gross"": 9.90,
-  ""total_net"": 9.25,
-  ""business_name"": ""Dr. Eckert GmbH"",
-  ""items"": [
-    {
-      ""name"": ""Magazin"",
-      ""price"": 9.90
-    }
-  ]
-}
-",91,Success: High similarity score
-invoice_rec2WDyPSoXCXpCUS,"{
+}",invoice_recc2k6CJbofrzPXc.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/4jc__6gV96q2EF5hAHIjOw/nJiJvJL7JkErkjFsOMYXanZMT4Pcd010hziWs5Hiw2EFVrWdwZFI7PYsz07EwvzasQt6t8Fm2j9-8WLunAMjz7KmQ_fTuvwbt9YT43iQRe6zdKDC1MJK50Oi5yCxq5PCurbzqJq3a7Q7ZqlI7HY1ZQbwfSOVRvPiS8RtYfqE-ghOmtEmTrFB4cnfoi1NoIKl/77NI-MVWPRJXWSmkOo4mZxrHJVi5apIyFP61MQc0YMI),invoice,"To extract structured data from the provided invoice document, please provide the text content of the invoice. Once you do, I will process the information and return it in the specified JSON format.",14,,pdf_saved/invoice_recc2k6CJbofrzPXc.pdf
+22,invoice_rec2WDyPSoXCXpCUS,"{
   ""total_gross"": 10.99,
   ""total_net"": 9.23,
   ""business_name"": ""Stefan Timme Familiengastronomie e.K."",
@@ -1190,8 +1156,7 @@ invoice_rec2WDyPSoXCXpCUS,"{
       ""price"": 10.99
     }
   ]
-}",invoice_rec2WDyPSoXCXpCUS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/i9b_nX_7kLUDbKy5Kg-Qug/ZaQxS7U_M_3UuhpBcUGrbKl2oE84BIpJ3sw5t75Y9FA3xnVmt8wVZtH38Q9usJ5tgyb-lm562291WNWxCQcll48DRmOv8TUTcJ6omyQtTHKNzIRSjgI_36_8-boUVJ6dYc1q43LJT7hQcSYW4I_Eg4J-L-L6mdjj9mOEmteZJedho4eQk_ijTfdPu73auFlH/ghc0dUS1Ha0EYuNZfoGzfrHJZoemZDSW5LmIRumyxI4),invoice,"
-
+}",invoice_rec2WDyPSoXCXpCUS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/2MjBjaoHjyLkJKWnRQUgCQ/rnn_9gU-TwBlZEdk_41VH8OAtp1Wuhtu4kca1680at9inyDrdjtlNqNfvtOSKnMKDnaN_mKDDGDOb-oH_nuqiGJidw-SIT5yDvOSJq989irWflGF1SmZ3fFAuy3h3kX9krOkRJvhKtTajsOlrsv1_LBVJ6ju5hyI3dYHZDsMTlCvzS29a6_DTQIcBf_VxXat/tXZRq114Eh6b9jwL_FuMMHS2-6Y9w0MwRs-gpHbMOiY),invoice,"
 {
   ""total_gross"": 10.99,
   ""total_net"": 10.99,
@@ -1200,11 +1165,27 @@ invoice_rec2WDyPSoXCXpCUS,"{
     {
       ""name"": ""Der M MM"",
       ""price"": 10.99
+    },
+    {
+      ""name"": ""Der M"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Pommes Frites groB"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Ketchup"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Cola Zero 0,5"",
+      ""price"": 0.00
     }
   ]
 }
-",97,Success: High similarity score
-invoice_recTouqIbcBvNnUqC,"{
+",59,,pdf_saved/invoice_rec2WDyPSoXCXpCUS.pdf
+23,invoice_recTouqIbcBvNnUqC,"{
   ""total_gross"": 10.89,
   ""total_net"": 9.15,
   ""business_name"": ""McDonald's Deutschland LLC"",
@@ -1214,21 +1195,36 @@ invoice_recTouqIbcBvNnUqC,"{
       ""price"": 10.89
     }
   ]
-}",invoice_recTouqIbcBvNnUqC.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/70Y4mLLla8MeNKzIy4KUuA/J8HOdvQZ6QtDQymsEUFYmOEMEjpD8DmFN0hyl05Uaimn54ahL-XB9KZz2RPf6-ohF2KjYQT56dyz-stW9tVjt3ubRfD_94y-AJZ5R6LJeGlJ-vSOxbAGxIWIHDk9ie4hf6FaHVccFcfs5JRXNNQz-6LU1bG9bqDq2i_khc6-V4EyYcN51G4fMZoLVjy6Apqw/F1hEmoEhPnAKRinDwfU5L8b6W5Tv3N8MqNOc1JxHe30),invoice,"
-
+}",invoice_recTouqIbcBvNnUqC.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/zUcQAfk-Efus8iTPGxd8_w/MDA34EITF-gmwHU92V_Wiv5g24LDahLLD9voeBwhyxHSorfS1o2Q9Xhs4ETeI7lje0FcBXX4HT0hLkyT1rne6mD9-T7UCrxG39DZhbg6wBHEy5CmginbZgan0rIdt2wE1-TOF08xm1TJnaincGjnxYbJeP4619yUjSwWyblmElBBMqPRRr64qxfZWSFc8CsT/tHVcyyzjuxxEaidYlT83P_ByVApT8z2JLI6QIYHFT0I),invoice,"
 {
   ""total_gross"": 10.89,
-  ""total_net"": 9.15,
+  ""total_net"": 10.89,
   ""business_name"": ""McDonald's Deutschland LLC"",
   ""items"": [
     {
       ""name"": ""Double Cheese MM"",
       ""price"": 10.89
+    },
+    {
+      ""name"": ""Double Royal Cheese"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Pommes Frites groB"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Ketchup"",
+      ""price"": 0.00
+    },
+    {
+      ""name"": ""Cola Zero 0,5"",
+      ""price"": 0.00
     }
   ]
 }
-",99,Success: High similarity score
-invoice_rec57vCzQp1BzyxR9,"{
+",57,,pdf_saved/invoice_recTouqIbcBvNnUqC.pdf
+24,invoice_rec57vCzQp1BzyxR9,"{
   ""total_gross"": 95.90,
   ""total_net"": 88.03,
   ""business_name"": ""Motel One"",
@@ -1238,8 +1234,7 @@ invoice_rec57vCzQp1BzyxR9,"{
       ""price"": 95.90
     }
   ]
-}",invoice_rec57vCzQp1BzyxR9.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/ojcpfvZHJFT2j-D9-OPaOg/0E2atrB0q-YWEb56RDUAj46-H6Qw6yk6XQtYpWbAcKoZjqrYgsM2RvPW58iwHbE0b3T8NJh4QTBIjhg3BePsC5Wnow8u17PO4GWzZ4gAV4QMX2udSosNPv7AQq8wU_0IK9tVj3cakc7vsXZF3OB2xj0r5KhaqH9a6Jao2MiTDECteHR_J9LHnn0_0N-NG9jJ/I7dUZRkf528XR0xSVQ9rY5xIXAj0rSIpCUi1rNNzE24),invoice,"
-
+}",invoice_rec57vCzQp1BzyxR9.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/dFVohG0ZCzrbAP7xCtn6SQ/kexSfMGtAsuj4TRRWyUouf5j_rwJkce88S9yD_YDzfle8XQZUbujxMjbIoMjrPf_Y45Rp2X6hi9G449c7RUvg0FH5DYttVLckk-eWMSlMZZvPYNLCFqBX7hUbOTzk6SpufKusgKXd1J7fCZa-oOBPpJJDWq5Ft1eK2cpKpCV-2Ecwh38NqVgJ06reV_eYtta/sLyOfhDJha0PN9QY2a4ZdeapmheJSk96yW_hhWepj2Q),invoice,"
 {
   ""total_gross"": 95.90,
   ""total_net"": 79.00,
@@ -1251,8 +1246,8 @@ invoice_rec57vCzQp1BzyxR9,"{
     }
   ]
 }
-",96,Success: High similarity score
-invoice_rec2YTyfnPoBgjXMp,"{
+",96,Success: High similarity score,pdf_saved/invoice_rec57vCzQp1BzyxR9.pdf
+25,invoice_rec2YTyfnPoBgjXMp,"{
   ""total_gross"": 162.85,
   ""total_net"": 150.61,
   ""business_name"": ""Motel One Berlin-Hauptbahnhof"",
@@ -1262,21 +1257,32 @@ invoice_rec2YTyfnPoBgjXMp,"{
       ""price"": 162.85
     }
   ]
-}",invoice_rec2YTyfnPoBgjXMp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/53q-vOuZNik5zZOpPodYVA/gcmP0rj_qilXGcll3bFuPDnJBv9q3JnlpL9YZ_N9wvb_R0cKxkuHN4IkVJhPbwKpIqqzYDd6iW-XZJi6zm5NbgPcIfpwURTe877Go9UyzziBHdXga-5-3Fi0taD-EP3DHu73joigOxEy0BLVrQxbjRdFe_N_mJc2Sw8YS1Dhpb0HQqtzELIPQSvcmuwa5PWv/Rj-MnGM_nXod11t3ERswEyIYx52oYbRPQObAnJF-FbU),invoice,"
-
+}",invoice_rec2YTyfnPoBgjXMp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/NMZ27EP__-1YvohkNJjvWA/X-3JuAr0QBrDWISbc0LBYRxKCpJ2T1Z2gES-rSox3dwpQcg2q0at7ZthdynViT80BKGw9z_mtWF9ihrm5Tgiwgp5gHOQDn3MD9ro3Q_MbIGcDuxDspTZYsFBSZJqyCkM5AjxSH2ZgeLhl789QrNpRkUAj92_iAtY2_a2jfmil62AfsUvQR200xWz_8JeKpZx/WFrDj_aEq4YFTYsCYwoDVvMGlw4ByJC67_q96XXDTVk),invoice,"
 {
-  ""total_gross"": 162.85,
-  ""total_net"": 162.85,
+  ""total_gross"": 162.80,
+  ""total_net"": 150.61,
   ""business_name"": ""Motel One Berlin-Hauptbahnhof"",
   ""items"": [
     {
       ""name"": ""Best Price including Breakfast"",
       ""price"": 162.85
+    },
+    {
+      ""name"": ""Breakfast (VAT 19%)"",
+      ""price"": 16.90
+    },
+    {
+      ""name"": ""Lodging"",
+      ""price"": 139.00
+    },
+    {
+      ""name"": ""City Tax"",
+      ""price"": 6.95
     }
   ]
 }
-",29,
-invoice_rechgq2ZV9vuDcYwS,"{
+",28,,pdf_saved/invoice_rec2YTyfnPoBgjXMp.pdf
+26,invoice_rechgq2ZV9vuDcYwS,"{
   ""total_gross"": 120.45,
   ""total_net"": 101.22,
   ""business_name"": ""Mississippi"",
@@ -1322,8 +1328,7 @@ invoice_rechgq2ZV9vuDcYwS,"{
       ""price"": 9.60
     }
   ]
-}",invoice_rechgq2ZV9vuDcYwS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/SCqzDfFsliyjc53zk6IuDQ/bO9wMl9R7ydf7QDNlScT6cjiH0HX8vLJS_MJGJWM2Vc-ks2Fovrg0lYMJXVameCMR056nPfNuPAgYY-SxoJDFIWJ-MGXS0oke8TDku85TICZ3-qqN_sKLvxuuKSD28gSMbc7Ax9axynTqBejhK9GxjiOCbHD1IPdZ-Abrk7dxy_NM-g7428bqTDRdnoRdwRd/QyhxJ7FisLxD2MJkC6LoHleDVkintWXywF_skpvSto4),invoice,"
-
+}",invoice_rechgq2ZV9vuDcYwS.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/842P0DlKyl5qErx99eAmag/Y3ZLTeoBuk54fYobhwOCHqOcBq3IDxf8ZJEGaUslzSrX3Rj7oPKMuan46vqyMQn-5WOmgC-aH3DfafMcxh7ZL2XX4YsACmZO212nbqJS-rY_Pabj3eIDzVPKE96pnNZCsXw94orLGMT0roggDCxyHTsn6Z6uvmQUrLcUCCDL21r0yi6-ElY31wIkxdxljR3j/KlOUWvwUxteR19OKtSc3yD6y2jEyCIzUPOMF7B2FXig),invoice,"
 {
   ""total_gross"": 120.45,
   ""total_net"": 101.22,
@@ -1363,28 +1368,16 @@ invoice_rechgq2ZV9vuDcYwS,"{
     },
     {
       ""name"": ""Apple Sour"",
-      ""price"": 6.90
-    },
-    {
-      ""name"": ""Apple Sour"",
-      ""price"": 6.90
+      ""price"": 13.80
     },
     {
       ""name"": ""Mexikaner"",
-      ""price"": 3.20
-    },
-    {
-      ""name"": ""Mexikaner"",
-      ""price"": 3.20
-    },
-    {
-      ""name"": ""Mexikaner"",
-      ""price"": 3.20
+      ""price"": 9.60
     }
   ]
 }
-",61,
-invoice_recGRlyYkHbzIP7pH,"{
+",68,,pdf_saved/invoice_rechgq2ZV9vuDcYwS.pdf
+27,invoice_recGRlyYkHbzIP7pH,"{
   ""total_gross"": 206.36,
   ""total_net"": 189.67,
   ""business_name"": ""Premier Inn Hannover City University"",
@@ -1430,8 +1423,7 @@ invoice_recGRlyYkHbzIP7pH,"{
       ""price"": 90.00
     }
   ]
-}",invoice_recGRlyYkHbzIP7pH.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/hIP7juvKieHOiC0QsIbkGQ/GN0fyumI3MKWRQHOjPDbRcPUNz3ews6nEz1pNzkmf-nzLEuQEYOYb_pQsmuWNbpF9WuOSkXG9SRgJy4vZON8yQ9CMA9uMV3VCMUTX1aauX2kJbZ9-lOEsbWMM9Ev-E1uoPqt0Sijj_-Gw4-2sgHXut-GSxKKr8Oii4Djy9r_gl7piOfZdxUU5EU0oHVmG_j5/GxgJTnSRO8jQk6y9V3SUViTPkvm-I-J4iiEK3iDDE8k),invoice,"
-
+}",invoice_recGRlyYkHbzIP7pH.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/QJbSyZbfLYfVY77jJPgK1g/MGEET4kFkZtrC-D_WntMVouLfX6bXKDH8bfr4rP1iPC3L2YcK-fpjIQ8F2PdRKgucnhJwbAFJZ6ZvWhGLwlTtzHMG4eyO6zwETT-Ps0ns5FYLHhrZjxW106TtXTwim3dPg07_yxAjHNSiCUeee2yy-llu2d9UdE7j3oNnQagIBYnits67okSaX8JL4a_BGFm/Ur5KoCKMgoUIc3qdVYj6uHuVwgDqDIVZStRPuBcgz1s),invoice,"
 {
   ""total_gross"": 206.36,
   ""total_net"": 189.67,
@@ -1439,11 +1431,11 @@ invoice_recGRlyYkHbzIP7pH,"{
   ""items"": [
     {
       ""name"": ""Frühstück Speisen"",
-      ""price"": 9.94
+      ""price"": 11.83
     },
     {
       ""name"": ""Frühstück Getränke"",
-      ""price"": 4.26
+      ""price"": 5.07
     },
     {
       ""name"": ""Übernachtungsteuer/Kurbeitrag"",
@@ -1455,15 +1447,15 @@ invoice_recGRlyYkHbzIP7pH,"{
     },
     {
       ""name"": ""Übernachtung"",
-      ""price"": 69.16
+      ""price"": 74.00
     },
     {
       ""name"": ""Frühstück Speisen"",
-      ""price"": 9.94
+      ""price"": 11.83
     },
     {
       ""name"": ""Frühstück Getränke"",
-      ""price"": 4.26
+      ""price"": 5.07
     },
     {
       ""name"": ""Übernachtungsteuer/Kurbeitrag"",
@@ -1475,12 +1467,12 @@ invoice_recGRlyYkHbzIP7pH,"{
     },
     {
       ""name"": ""Übernachtung"",
-      ""price"": 84.11
+      ""price"": 90.00
     }
   ]
 }
-",96,Success: High similarity score
-invoice_recdTY64ULXJkQbE5,"{
+",57,,pdf_saved/invoice_recGRlyYkHbzIP7pH.pdf
+28,invoice_recdTY64ULXJkQbE5,"{
   ""total_gross"": 17.00,
   ""total_net"": 15.89,
   ""business_name"": ""PIZZA-TURM"",
@@ -1495,12 +1487,11 @@ invoice_recdTY64ULXJkQbE5,"{
     }
   ]
 }
-",invoice_recdTY64ULXJkQbE5.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/8sUEmB1IqWeJSbusfEowPA/41k-bpwoFLK41JXoqpHjqmeZ_02f7ICTulpbWDfSTqf_LbYri8-XGkx_hL8FH4hHsv_nQ0kSVeJX4EgMjcHLgChYOalGrAxlC_oGGPZWMawVKKvkXatN0upJYOqiXK_D1sxWRXSbEYG5PlmbyY0Afs66HRBCr9NNSSjmYspiZjxJzxbBiXKZjeCTPS2jxoPT/oUjKVGp4vvimKLMf_NmoU1mS1VjIeTmJALQBXxuiM0k),invoice,"
-
+",invoice_recdTY64ULXJkQbE5.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/OqEg1GCJc5b4oxhL00ZlIA/jhPaQy-B7XN_1V8KoXPNpXbjo-a6VG9PkXS9L8j7bGASiNMkrbu3ns9KpSTPlu9dj554T2PiHLZ30I3zhhQd01RxkGVeOPQ8pCx2m-IkvIC_Eh8ubmDnUYXANU0zvlZOdy8le1Lan1lHdp6ecw9nsipvC1n_Ned04B3TX7MhwqAHzoC35bMVkPa0JBCJRrCf/Dz_3WF_mqRJF0BEZRPinJTY30YSLuncx5AztH2-MQos),invoice,"
 {
   ""total_gross"": 17.00,
   ""total_net"": 15.89,
-  ""business_name"": ""PIZZA—-TURM"",
+  ""business_name"": ""Pizza-Turm"",
   ""items"": [
     {
       ""name"": ""Piz. Calzon. Klein"",
@@ -1512,8 +1503,8 @@ invoice_recdTY64ULXJkQbE5,"{
     }
   ]
 }
-",99,Success: High similarity score
-invoice_recrV3FBDOzs3KlVk,"{
+",97,Success: High similarity score,pdf_saved/invoice_recdTY64ULXJkQbE5.pdf
+29,invoice_recrV3FBDOzs3KlVk,"{
   ""total_gross"": 13.62,
   ""total_net"": 12.57,
   ""business_name"": ""REWE Matthias Hürschel oHG"",
@@ -1543,8 +1534,7 @@ invoice_recrV3FBDOzs3KlVk,"{
       ""price"": 0.75
     }
   ]
-}",invoice_recrV3FBDOzs3KlVk.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/qRmUu1x52mDtXjL21O1QDQ/rqHM0tJKJ2goXWkSY6pqstxD89LOzRJkbkg0RmkIMV-4Y4bh0GoTUwekkA20XI0VCb_WUp_-ieUskcmeOg1cDBjQkPERK3vegvlcB_-ELrHkYbI7FGQRPkt-97_gkHn897988bJc0YvYjqeN70gSgLsjSekOGuuXL8jxg3HA9lqOr5pAH9-2axXmQn3rXVaS/KTOAnHvXRGjiTAJ-FUBjfVt5GtDKUpaK5pKDMxrewa0),invoice,"
-
+}",invoice_recrV3FBDOzs3KlVk.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/itIzc35GX1nUStplrHkk5Q/4qY2QDVv_0ie1H7ESJSPOBCn0opytGMAJnjlE_IMNq3slxKuMktH59eUeWwwsjRHtWRxWq8vgcKEZcYX1dT3HBgAuPmzxlKqW_Vbfv2KQUVP8gRhpEKQKhnVQY8jGTQ6AJLNMHiG-TFcH5MaIMB60R-UrF93ux9Is0Xm3PPloXSSiXNzG29B6nkNWeYzQe0e/la0YQ_Y2pYG4WVmoioRzyMwQLeXwoJmgWEtZo8FUkLc),invoice,"
 {
   ""total_gross"": 13.62,
   ""total_net"": 12.57,
@@ -1584,8 +1574,8 @@ invoice_recrV3FBDOzs3KlVk,"{
     }
   ]
 }
-",88,
-invoice_recpbzE8bfqAWcC1u,"{
+",88,,pdf_saved/invoice_recrV3FBDOzs3KlVk.pdf
+30,invoice_recpbzE8bfqAWcC1u,"{
   ""total_gross"": 33.50,
   ""total_net"": 28.15,
   ""business_name"": ""Parkhaus Rödingsmarkt"",
@@ -1595,8 +1585,7 @@ invoice_recpbzE8bfqAWcC1u,"{
       ""price"": 33.50
     }
   ]
-}",invoice_recpbzE8bfqAWcC1u.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/igsaqR8YjztCeiqJznWIxA/V7b4EkXRXGZWy5st8ymrxBVAyb7YSXPYeZenKi5iUl_VHT2HPttizpWMCPwJvmExLyAXPgn0GMo0-wF7gFr0wJ5Cz1ityaKdRM6MyxXZXqy79k-FNH9QcyqTk6-BaWBs4oIIm46thaOvl2_05_heSTCOEGMc-FH6jnm-Kv2qbRdHKE-Pr8jI9RlZ-Ud6KfDI/pzBZW1vHhbCac0LK2k7hmV7mogLvq34U8uN9sE6egAw),invoice,"
-
+}",invoice_recpbzE8bfqAWcC1u.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/9uGvvcVuIdXkBDrEheaDTg/a81JN6hV2a0GTkxvxEkq7C09--ag163w4vF0oFocTtgih9DSNm_zk1jZqtYzVVWchoicrRxmjazLOhQMvqa_1phhRj4kJAxLYk2HNg_dg2G2K1bPA8gLehG9kLDluU9eBGejPvMxZkhtM_MlRxskYR4f1cINLXHN5gN4IbCG3K1iNqU2-dZnS0Wji2lsx3vY/UOXjGnpd81zjg0-5tscANX-sq73iboVXN11D1qZaRoI),invoice,"
 {
   ""total_gross"": 33.50,
   ""total_net"": 28.15,
@@ -1608,8 +1597,8 @@ invoice_recpbzE8bfqAWcC1u,"{
     }
   ]
 }
-",99,Success: High similarity score
-invoice_rec1JB6TdsNMPIl6u,"{
+",99,Success: High similarity score,pdf_saved/invoice_recpbzE8bfqAWcC1u.pdf
+31,invoice_rec1JB6TdsNMPIl6u,"{
   ""total_gross"": 124.21,
   ""total_net"": 116.08,
   ""business_name"": ""Premier Inn Hamburg City Zentrum"",
@@ -1623,8 +1612,7 @@ invoice_rec1JB6TdsNMPIl6u,"{
       ""price"": 121.00
     }
   ]
-}",invoice_rec1JB6TdsNMPIl6u.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/Y_OQhKJV4e27Lan1xMFCXg/kYxfV8UYFKOxGmgB69XctrVQ5qU7GWa5TNVOyoCk66jAsBKGmqkiRH0nlvfeE2pC6f6VmfX2KBTuZTow3SYYqy6ESJ6y1OGON_tyo_KgARIchfBj6qErs02GbgQKNKRGTa7fJJAR1T1Y7z21_r_ZBWGeAuhBkDsquppMwZG2hgcEjH5F6UHo_7mkXYe-LYeo/PximeRtGXOIpa5ISr2FDIMCKtS4AjWfKx0ZbOZOn3-U),invoice,"
-
+}",invoice_rec1JB6TdsNMPIl6u.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/tpsrW8b2d5ztxs3d3XgUCQ/O_bxDZCqWqhOT-fbE-w5-RGSUujLVHJifY7xn5rGWfGwbB3oXXHA--DLTrgDXNZPN-Q4FtPg1I0R2Wtm3a9tMZ6fMVUJTm0vkzHsSgJb8P2BrOqAnHtLM8Axvqne6db4MIfSj2nM42GUPPgb_fFohd7lqtuyTdD9nlBYsgdT4uP9mu826-6xLHZJ4IHm17m1/aHv7ya-CMqGH8Mfs8l_grZl-VhRr_0FiAMVN_Dbh1C0),invoice,"
 {
   ""total_gross"": 124.21,
   ""total_net"": 116.08,
@@ -1640,12 +1628,12 @@ invoice_rec1JB6TdsNMPIl6u,"{
     },
     {
       ""name"": ""Accommodation"",
-      ""price"": 113.08
+      ""price"": 121.00
     }
   ]
 }
-",82,
-invoice_recroURut2llhg13n,"{
+",82,,pdf_saved/invoice_rec1JB6TdsNMPIl6u.pdf
+32,invoice_recroURut2llhg13n,"{
   ""total_gross"": 1.10,
   ""total_net"": 0.92,
   ""business_name"": ""REWE Matthias Härschel oHG"",
@@ -1655,8 +1643,7 @@ invoice_recroURut2llhg13n,"{
       ""price"": 0.95
     }
   ]
-}",invoice_recroURut2llhg13n.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/FiPgEX8DyDNqMBUFSDMF0g/APmtJ8TD9QPznIQEmvkbbAZRPEmy4YKhFi9j416IdP35llhfeEgKdtKttcq_tkLmG7yr_99csiDCg3iQZlcSau409gFjvximITK61hHcjS5wit05Wg6f8AkxffqXcH2Q-251MJPiaZ4nrSsZAVbMGbJBaREe5BsmqCBhPj3jz1_jHwfBcHhK8Y8qf0Zh8Zuo/JbQZE5iJd2fWE_YMA5CJ3SGjxNu23Hq82EiyBZor1hE),invoice,"
-
+}",invoice_recroURut2llhg13n.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/XkJmtZvhI8TLazmIYwPbkw/F_gAM_n2_tmwHKYtjJRkaJ9m3GQpt5y87fOxk-JJPSeEYMcXRMa6d0LyagiDnFvxINsD1LF1uL8bnw5eOcKZaG4EU-5E9hwbwDxIsETZXaO0ibORmigUaf7eswz_pLB973mTlpP5dprYbY2KNHIyRtiydFin0lkBRrkQH100P5fDYRd00q3vLRMvbItT_hWc/owQiwHXJbNxtr9aK5TuLuAInosCCwRS69Uc-A4gq9Do),invoice,"
 {
   ""total_gross"": 1.10,
   ""total_net"": 0.92,
@@ -1672,8 +1659,8 @@ invoice_recroURut2llhg13n,"{
     }
   ]
 }
-",85,
-invoice_recLQaEnS0Wtab74M,"{
+",85,,pdf_saved/invoice_recroURut2llhg13n.pdf
+33,invoice_recLQaEnS0Wtab74M,"{
   ""total_gross"": 19.17,
   ""total_net"": 17.41,
   ""business_name"": ""REWE Patrick Vorig oHG"",
@@ -1707,8 +1694,7 @@ invoice_recLQaEnS0Wtab74M,"{
       ""price"": 4.49
     }
   ]
-}",invoice_recLQaEnS0Wtab74M.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/gqD0qwqbIsEQQI9sAK5zvQ/3fUXvgmwvOvgpqfdrCAOW98lAm6jeYYvthFXYIj4teK2uFbCiqLrZ8HeBgh2BElTfA7RG3LPJeGkMJilVTMkITvQei2uHK7efra924UBE4Jel48Pk3OVxeJR1uGxYoPkVDf2KBrKSjaujp5SZ6hxMMB8Qyy1exKPuaTi06GcRtf4lvdhBnlXCTDr0SybCpRq/IwrOfsz2q5cJ2TW8yi9ZAets2ELksgkHaFQGN8525fw),invoice,"
-
+}",invoice_recLQaEnS0Wtab74M.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/ki9RlEf5p8ifY6QsqY5KBw/QHVHVztU_A8ut2f39EMn3OU8nCLyINnIPuGelXKn6bB3f27GZ4KiKKp7Sjc99jEJ4haLjDV3o9LBnp6pFwL3pIpwoKyS-gx15lumLqUs-NJ94TGqmaQ-BgHO5yLX0e0eJY4_LFXGRV5QoV8Oi_wPlN-WrMhphixJvVFb745YUcWLAY4x_-Jl3CgoSHVgceeN/ahatxw6_gf9GhMbEDZ9ZFPeAZLaO3cqW5ItCw0eXkFE),invoice,"
 {
   ""total_gross"": 19.17,
   ""total_net"": 17.41,
@@ -1748,8 +1734,8 @@ invoice_recLQaEnS0Wtab74M,"{
     }
   ]
 }
-",56,
-invoice_recheDwicMvy7OuI7,"{
+",56,,pdf_saved/invoice_recLQaEnS0Wtab74M.pdf
+34,invoice_recheDwicMvy7OuI7,"{
   ""total_gross"": 35.99,
   ""total_net"": 30.24,
   ""business_name"": ""SATURN ELECTRO"",
@@ -1759,8 +1745,7 @@ invoice_recheDwicMvy7OuI7,"{
       ""price"": 35.99
     }
   ]
-}",invoice_recheDwicMvy7OuI7.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/-laxXsUa7-RsZMtaQXaadQ/cs2qLi2-g_mmiUMpE8BScruoNptgLBjlkq7ZKz49ossgI2bpmWe51pZC_z7CI12XhJsCLAtCmii47DDRSY9PXO4zFQvGuHTQC_3uycCaKnI50UcbxDiynqCewipllP5uUGb3gIOUpL5VyPN1wGJ8kY2E8NShelQw6OKbxWU0vcdGjxD5bDxwNBhpp-B-nyq8/R69rqSy7WiFOLlsaP_oAHyuShiBsiuEFq-j8idvJ1X4),invoice,"
-
+}",invoice_recheDwicMvy7OuI7.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/kFuydoD6rZCi1zbCEYOR5A/ezHTqBuc9E1XmAfpyTQXdvmB9cdAYpEYO6Jm0gzS7oNqLE_mJ94fUFY5ZFkzaTtQW3O9CLxixcXxCbJ6qQHEl_BUrPsS1KGW_QRvPil3Li562TNbZP2Va32u2fus9h5a4O4AkDq1eYHHz__gLDNbGB0G9e0J3WDLLPd4Omz27SXbod6t3LaymwQJEwBmuIne/msw-IskwCv2Enjo9NMUCKQEOIFe08-m6Tc1xIuAXWNo),invoice,"
 {
   ""total_gross"": 35.99,
   ""total_net"": 30.24,
@@ -1772,8 +1757,8 @@ invoice_recheDwicMvy7OuI7,"{
     }
   ]
 }
-",97,Success: High similarity score
-invoice_recRvZ4ecIhQniabn,"{
+",97,Success: High similarity score,pdf_saved/invoice_recheDwicMvy7OuI7.pdf
+35,invoice_recRvZ4ecIhQniabn,"{
   ""total_gross"": 16.25,
   ""total_net"": 13.66,
   ""business_name"": ""Frittenwerk GmbH"",
@@ -1787,8 +1772,7 @@ invoice_recRvZ4ecIhQniabn,"{
       ""price"": 11.35
     }
   ]
-}",invoice_recRvZ4ecIhQniabn.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/D3aHlsq1xNcMqg7bfiSKjQ/ttHSBBLO0VvqwFs3Mg8swUnv5R_A1DbbLKwaVZjX1kVpuK0sI2nThqPAANpGbjVBOJPWf287njmPLEvpK8ltx5Gz-y_CooCvgSTK2QOsydjruGz-RKR_13WOjplDOM45hMQ2TCyDESEL_N3_Ja9fxJPkiwqdn0OiayZMUd-kEtTGZ3GQIQ1ATY8e-4wdRWp6/hLw7mBS42HAYuaxp53jmP0Gc3QSXvGkTvMX10ir3Ejs),invoice,"
-
+}",invoice_recRvZ4ecIhQniabn.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/UjQTZyPV9Ool9H6EAs4lvA/_v6dgDjiIb0HJeaJ5pOErZxdgMo5TTJgVVL3srL7B0WDmw9Vs8g4kW_BzfqS04B0QZCHiGw6U9QYShRDLpO2yYHNZ8eR0-aVLXu2dzimfr-DNg_2x4rNWH9RrnjBqTqlaAhUmFf_r4BrN613hRCgDpYzajCX5e9DOVbBD1i1i3vUvnUZpme0_9PWdCrPU0nP/k9kCOagkfehMqhaJ6dGYpWKr0_sKzYw9gxDWTU9B9W4),invoice,"
 {
   ""total_gross"": 16.25,
   ""total_net"": 13.66,
@@ -1804,8 +1788,8 @@ invoice_recRvZ4ecIhQniabn,"{
     }
   ]
 }
-",99,Success: High similarity score
-invoice_recsZodqIi4dX9pMl,"{
+",100,Success: High similarity score,pdf_saved/invoice_recRvZ4ecIhQniabn.pdf
+36,invoice_recsZodqIi4dX9pMl,"{
   ""total_gross"": 71.98,
   ""total_net"": 60.48,
   ""business_name"": ""SATURN ELECTRO, Willy-Brandt-Platz 5, 04109 Leipzig"",
@@ -1815,8 +1799,7 @@ invoice_recsZodqIi4dX9pMl,"{
       ""price"": 71.98
     }
   ]
-}",invoice_recsZodqIi4dX9pMl.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/_LNEbUqhbFW27pqjTZUWow/G7etApzsNTaPqTD-U1zSUMF3NB672K8yik0l-DQINKlAmiAXefnQX6A_xASExcZOV6OG1o2-eNSNcDK1rtGCEOBOoR3D6HHCyv3JUab3xyHeY0Ck2AaQhyvDPpZFX7O_C8XoLgX8wcsKrGDc26WPeXima2UaP3GXxTNjWVZePfrS6INdHMfVfmMkHubRutg4/tqX_ZcK3qJFdZn7oMu7nzvmELykAwCANdqBPlp0qA7k),invoice,"
-
+}",invoice_recsZodqIi4dX9pMl.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/OTdIprTux3QC7hwblwo5lA/RLDG3PZu078BE4FEmlFfVY7ybtF75Klqh5Y6S-jhIGOoc-kBvkckYoWz4fcR5q6-7HUMJGcTP7ARKrR6kp2gLfnsEg_st-b3IhSHKl2y09ljFfH4alhjk24i6tg2FMzlGYxGTYmDKwl5PgwORxPDh570ti8DOZ8EJKoJR5yo7gJuBwSMZSU5Tlin89QfNEKJ/GmyI1DsKjFtTQZbIK7tp5_o9dhsBgiAOP-oT7wovqgI),invoice,"
 {
   ""total_gross"": 71.98,
   ""total_net"": 60.48,
@@ -1836,8 +1819,8 @@ invoice_recsZodqIi4dX9pMl,"{
     }
   ]
 }
-",58,
-invoice_recZ4M2DYq1Mqmu4d,"{
+",58,,pdf_saved/invoice_recsZodqIi4dX9pMl.pdf
+37,invoice_recZ4M2DYq1Mqmu4d,"{
   ""total_gross"": 7.59,
   ""total_net"": 6.38,
   ""business_name"": ""SSP Deutschland"",
@@ -1847,21 +1830,20 @@ invoice_recZ4M2DYq1Mqmu4d,"{
       ""price"": 7.59
     }
   ]
-}",invoice_recZ4M2DYq1Mqmu4d.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/R1chyodx4o1LlE57QWAYgw/MZ5cWH3YeTsZBxFVwbL7tcmqrvHqrHpUaTKzOqbEquyDbVKhnMrqw2codbi7gZhB2zuAjeeb6DOdUwm7-ehgbaHy_prkdEWmwMQOaaxc2JB6P-9EJ8Ksj9IiWtmJ5_5Sgq9JmFpeUKrmbInqoONKiO0lCACNCa0OFRtkxKq8dRVV1_T_oYpSrzqCv96kNc9T/D2UoLxaKV9glfWw4br7i2gLsu8qPaMOlbBLa8Qh01JU),invoice,"
-
+}",invoice_recZ4M2DYq1Mqmu4d.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Zn2GxJ99djFY3oEUVvlqVg/QwQYZk0dR_PCFSfXPbv9Nbe5VdIaTxU5skUdQrG3_7QVCe2P7ancIWT9vE69Np7Gf6H33jcGv3L_CSwRZZqUjG9IDUyPhCM7apoEVyR83fAzzJo53tcPhZC23Z5IqVySwkbF2k_skW9UxXO7TkXgJsG9JyVg5ML5pbiwUvZlK5CAMSai9Y585N74qnjYMaBD/jbW2yMUA2Ze_OUEsVqZlJYE-KD51HYwKsoUL69QL910),invoice,"
 {
   ""total_gross"": 7.59,
   ""total_net"": 6.38,
   ""business_name"": ""SSP Deutschland"",
   ""items"": [
     {
-      ""name"": ""Matcha Green Tea Latte"",
+      ""name"": ""Matcha Green Tea Latte Venti"",
       ""price"": 7.59
     }
   ]
 }
-",97,Success: High similarity score
-invoice_recuDJddkivvhbOjM,"{
+",99,Success: High similarity score,pdf_saved/invoice_recZ4M2DYq1Mqmu4d.pdf
+38,invoice_recuDJddkivvhbOjM,"{
   ""total_gross"": 9.49,
   ""total_net"": 7.97,
   ""business_name"": ""toom Baumarkt GmbH"",
@@ -1871,8 +1853,7 @@ invoice_recuDJddkivvhbOjM,"{
       ""price"": 9.49
     }
   ]
-}",invoice_recuDJddkivvhbOjM.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/gViLe4PnDEjILVkScuCBQw/Z3my2Ct5rRHTiteyuBvpvh8PCX8S0AswUNUXvVgE76hGIXPnMfnLsVUNGftlPcEgQz4AjtxMXOcgRJwQJX8CcrMZs0KpHWDflF47cDA-F1uTojprpuGuFq9xwbxgTgsILGgmsd7ShQaEBc7_X8hn52dtLOhu-tqHlKxQ0HWrRU5Q4OdDFwJK9UygWDjXWNen/4mx0ijimgCxeOghKaOqYVBXMdv8eAzzcHj6qmwf6zBo),invoice,"
-
+}",invoice_recuDJddkivvhbOjM.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/9T8WRFJ7UIJJoOpkZYmF2w/9pU6jxuSu0UY6nUdQiDJjS3Oa8L0rOxm0bNCFzZTQ8udawTyA5_d33XQ7zLfXaQqRytEcjV9umzV8Eit9oTFiqLxqRZL-UiW5lAPgZhx7R3ZEOP35VBlUj7zTCBwS-vhltaKllb8hbfbh4E2fsI2qt8PCeGJixdlweqJ4q1hYi_HIuBtakfwOFLgiAnoNSrB/57K4f3vBBlz8YrTGnJmGUM9QSgeHd1HUWRIxDdiLfQs),invoice,"
 {
   ""total_gross"": 9.49,
   ""total_net"": 7.97,
@@ -1884,8 +1865,8 @@ invoice_recuDJddkivvhbOjM,"{
     }
   ]
 }
-",99,Success: High similarity score
-invoice_rec4PSvGh8YIAA5rp,"{
+",99,Success: High similarity score,pdf_saved/invoice_recuDJddkivvhbOjM.pdf
+39,invoice_rec4PSvGh8YIAA5rp,"{
   ""total_gross"": 91.19,
   ""total_net"": 76.63,
   ""business_name"": ""star-Tankstelle"",
@@ -1895,12 +1876,11 @@ invoice_rec4PSvGh8YIAA5rp,"{
       ""price"": 91.19
     }
   ]
-}",invoice_rec4PSvGh8YIAA5rp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/yl-wWK6xnL7Do3Z_ecTmJw/kFJJ2PZSEj0Qjso_auMjQluSfiw0kjjMqXC5vRjv39sflo3-YASLUn5nBZVYNdo948hhU87eH-vn25699bOD5wpq_YkTc9I0mWeP0jBsuDamK-joWJ3N6TWZNjbSTA_B71A7fN0d6IHB9Xuo4J-nlDt6gS6B0E6U91M3vXJlVrNGVfuZWIYdMSBPaKGtGvHf/5M2-CFAv973Pf4zLSwGsRJPRqil5NWbD3L5ukI16Veo),invoice,"
-
+}",invoice_rec4PSvGh8YIAA5rp.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/SWNMUT7pcMqvdWHXjQhjUg/2_t23Yt9i3GtKRQeYR9Wyz2s0vwlcrL3uLREOS1erGtr72l6JrXlfb6Rw6AiH9w6z7aYuDDm9hz7O4CW4rvidKftODnJIuPAXkP1zvDzATi5C9lO2dd5M7U02rKed1YkxNOe7fDOIU8U2u5-i_-sJbxk6N8VlUxuyMMoYkvJd4jn-d_q_FPNFZM5TQttaB7c/ov8as8lFU6psfipQgM5gtkYkatt1nvSyUeZ5pc-x794),invoice,"
 {
   ""total_gross"": 91.19,
   ""total_net"": 76.63,
-  ""business_name"": ""Star- Tankstelle"",
+  ""business_name"": ""Star-Tankstelle"",
   ""items"": [
     {
       ""name"": ""52,14 Liter SAULENNUMMER 5"",
@@ -1908,8 +1888,8 @@ invoice_rec4PSvGh8YIAA5rp,"{
     }
   ]
 }
-",90,Success: High similarity score
-Order_recYTa8jkYr21qgla,"{
+",91,Success: High similarity score,pdf_saved/invoice_rec4PSvGh8YIAA5rp.pdf
+40,Order_recYTa8jkYr21qgla,"{
   ""buyer"": {
     ""buyer_company_name"": ""NORSE Tech and Innovation Hub GmbH"",
     ""buyer_person_name"": ""Felix Hammerstein"",
@@ -1929,8 +1909,7 @@ Order_recYTa8jkYr21qgla,"{
     ""product_article_code"": ""J1387321"",
     ""product_quantity"": 7
   }
-}",Order_recYTa8jkYr21qgla.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/et1HTaIGsdWO8p3rV1gotA/Q4ef9iiR2qN4IKD0uL2BenskD3oZ8BmojTnHYT9UGdxtsxwePedjkYPVYIPaglAQSWsEIpYjHxOTSX6WqwHM0tXLz9KRaIEZjmag9-7BXhCJ4D942AkQnkHLoDG12zl4d0c_Usu2VMPjRCeL7I_suXgyde6sQiSKe2LU9rwS5zmoka8897Gg6V2EZWz3fRg2/c80a1gzVLMn5FvhQb9AJkOuI9nhtj3UrAx-rYUDYY2k),Order,"
-
+}",Order_recYTa8jkYr21qgla.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/AGNKlP7vi2oHWJSIjolHNQ/b8ATwmgDVzIqKUQLNENqjz9KMXnLNwYLd70Sy0mHGupXK5vcCuQ6y7don9SAGb7-zPhOInG6RoTCCFbDS6_I8I82dYeOkSwYE-zuvdRVBbRGXJTrhvPlQgkXs0uGa0pdQa1eT2WnHCjIXrhCTNJKPxuCIK1zXgBLeA2UmhLIyPPjlkV2v-SbqjqrrAmF_PEM/q9nXKx82l8q9gMsKH2r1PDPE2zQfhxCo9HbLm-nMfss),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Anhalt GmbH"",
@@ -1946,14 +1925,16 @@ Order_recYTa8jkYr21qgla,"{
       ""delivery_address_postal_code"": ""47861""
     }
   },
-  ""product"": {
-    ""product_position"": 15,
-    ""product_article_code"": ""621786"",
-    ""product_quantity"": 7
-  }
+  ""products"": [
+    {
+      ""product_position"": 15,
+      ""product_article_code"": ""621786"",
+      ""product_quantity"": 7
+    }
+  ]
 }
-",53,
-Order_recAoAwa5AVEcl5eM,"{
+",53,,pdf_saved/Order_recYTa8jkYr21qgla.pdf
+41,Order_recAoAwa5AVEcl5eM,"{
   ""buyer"": {
     ""buyer_company_name"": ""TECHNOVAC Systems GmbH"",
     ""buyer_person_name"": ""Lena Hoffmeister"",
@@ -1973,8 +1954,7 @@ Order_recAoAwa5AVEcl5eM,"{
     ""product_article_code"": ""12554297"",
     ""product_quantity"": 2
   }
-}",Order_recAoAwa5AVEcl5eM.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/c_A4ff1yuvdmOUFnJctLcQ/NdQa-3B0QYo5sBDRnfP3zMlm1zIO00i_jFrnT21cc_-PSX-Ng-pwffwAN6YZhAkubQiPlV8tcN524p7bDcXCIwBVkxLPA7Qr9OIKuaxWWdV3MxCveCZNV0pEoi3U0LUM1yg6nQPsvZEkvuXJeF7JXcFcxXHuQpf_Tl3X8Vb6ZSuS570-PrziF4IVcM4lAUBX/etZitiTTlerVfqYomBFwiZdEzFEHXDksYRV82RvDiP8),Order,"
-
+}",Order_recAoAwa5AVEcl5eM.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Y81kvorxMesNQaQP_k3trw/z_3_Ccs5BN8r1TRNAAduDfzO8DLLRMC2aTldLY_mhG-1uNPYk9y4hP5QpKa3Fx2wq9r4x16mzGUcj3J_Qzsfzy0HExQlqkI62ah9cLzXMwN2TiLmPOUF8JIP8_MWZalfaByHLuA-4fqhmW4LkhMH8sPtwmN0tqOej2jn7OvEa5mdxWpBVyLZ3-4o16lkiMbi/RfyG0dKd-XWMHC9gZzBnbeNbMRIv9MSDoqALkPB60Oc),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""OttA GmbH"",
@@ -1990,14 +1970,16 @@ Order_recAoAwa5AVEcl5eM,"{
       ""delivery_address_postal_code"": ""87700""
     }
   },
-  ""product"": {
-    ""product_position"": 10,
-    ""product_article_code"": ""96188800000"",
-    ""product_quantity"": 2
-  }
+  ""products"": [
+    {
+      ""product_position"": 10,
+      ""product_article_code"": ""96188800000"",
+      ""product_quantity"": 2
+    }
+  ]
 }
-",97,Success: High similarity score
-Order_rec2lvVfoMugIXz9g,"{
+",89,,pdf_saved/Order_recAoAwa5AVEcl5eM.pdf
+42,Order_rec2lvVfoMugIXz9g,"{
   ""buyer"": {
     ""buyer_company_name"": ""Hofbauer Engineering GmbH"",
     ""buyer_person_name"": ""Matthias Greiner"",
@@ -2018,13 +2000,12 @@ Order_rec2lvVfoMugIXz9g,"{
     ""product_quantity"": 3
   }
 }
-",Order_rec2lvVfoMugIXz9g.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/cayah_YjNfuqk5JBatO0Qg/-vysayjvZxFKOYoW8JK8C7a4FgvTTOxH2fD2Gxy95yKwI_nrOsElqymmbhSV7Ph0LVBcDiAeK-lU2P-sBhdlMUMRlZljHtUT5Wzn7BOevn-5MfVQz3PSr7zKekqQwSn5E8rz5hpyRZll7UpGazRVEVv51ViagV6hw9PS-WFAng5ym_lQ1fqOYfW9_2xdp_fW/Tzbqtx8QEegSJaJx26JlQf92NLdp6dgXMPWyETQhijc),Order,"
-
+",Order_rec2lvVfoMugIXz9g.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/Io_1cmsY3rZoDQJhjkIwDQ/eu99S81iUkXFr1bnJH9pzxaQhnjF4lS-cidJ3b0bbbbSEOa9zUX6zx3cKGANbBNpdljVHk-sXkfVTiveLtVPfybAbR2gVTH-tfpleiLVvbLVBOsiu3NoauTmUGO9HKjzUvafFt3PJOJ69SayNsAmGWn_TQJmKtAKG9Hldr0XdjH5B1ZpBRu5hif8OSQdili_/jKA6r6PByK1LPj50fVEG7DmvfinxqO3Qxmv6hU9vtgU),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""OttA GmbH"",
-    ""buyer_person_name"": """",
-    ""buyer_email_address"": """"
+    ""buyer_person_name"": ""Matthias Greiner"",
+    ""buyer_email_address"": ""einkauf-mb@hofbauer-eng.de""
   },
   ""order"": {
     ""order_number"": ""6289574105"",
@@ -2035,14 +2016,16 @@ Order_rec2lvVfoMugIXz9g,"{
       ""delivery_address_postal_code"": ""47186""
     }
   },
-  ""product"": {
-    ""product_position"": 1,
-    ""product_article_code"": ""MB00022119"",
-    ""product_quantity"": 3
-  }
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""MB00022119"",
+      ""product_quantity"": 3
+    }
+  ]
 }
-",44,
-Order_recqeBaiDdWggsToe,"{
+",53,,pdf_saved/Order_rec2lvVfoMugIXz9g.pdf
+43,Order_recqeBaiDdWggsToe,"{
   ""buyer"": {
     ""buyer_company_name"": ""NT Precision GmbH"",
     ""buyer_person_name"": ""Tulia Faber"",
@@ -2063,8 +2046,7 @@ Order_recqeBaiDdWggsToe,"{
     ""product_quantity"": 3
   }
 }
-",Order_recqeBaiDdWggsToe.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/8kHybz2QW1TmhijkWoCUxQ/v88Iz9wOwibCTPaMWhmhH88JpHVyB0J3yEtUybVcVFiOmSO8LV6YiddH2Nzca5sac9fLaih7z4CsDFG-ytKVDIbw7_pmPmoitIeTVDbH4SGSNkfUdH-RSEwrZf67n53JuBCrir8ADrtsrBYAH217y1GHTbcdrKtJM5CRQbITZeJ1MTIgTzWsshmc3OMBSsCV/iba6VHQzhBLqa0mCXboTJ6LtoP8xwW8VLPpDBanJf14),Order,"
-
+",Order_recqeBaiDdWggsToe.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/qbDT9F60DtvjQ4hZcZ27NQ/EOO5tHbqa5vWd9xGuz0_2tntcd4qPt3YWp2QXw_bmJ7SCYfyd2ZEQnBCIStVwalrkuE4RfhfcvlVOCDAxuO9WaLPMYdzXa7HeWSFKGL7gtU0L9Wh5lTT1QV_ZxjpP33rcz8hjFM0LqY3Sw-b67kUQUfjq6OA59PAUnXw13rFuhX9a4tigfGEc_swYisl8zkS/u1zMqkUpBfKHjDCn4aO9kz-9pZWXCtvcq1dvUWbaiBY),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""NT Precision GmbH"",
@@ -2080,14 +2062,16 @@ Order_recqeBaiDdWggsToe,"{
       ""delivery_address_postal_code"": ""92637""
     }
   },
-  ""product"": {
-    ""product_position"": 1,
-    ""product_article_code"": ""M7630260"",
-    ""product_quantity"": 3
-  }
+  ""products"": [
+    {
+      ""product_position"": 1,
+      ""product_article_code"": ""M7630260"",
+      ""product_quantity"": 3
+    }
+  ]
 }
-",98,Success: High similarity score
-Order_recFcl9ugKRfGg248,"{
+",96,Success: High similarity score,pdf_saved/Order_recqeBaiDdWggsToe.pdf
+44,Order_recFcl9ugKRfGg248,"{
   ""buyer"": {
     ""buyer_company_name"": ""Möller Industrial Tools GmbH"",
     ""buyer_person_name"": ""Lennart Weiss"",
@@ -2108,8 +2092,7 @@ Order_recFcl9ugKRfGg248,"{
     ""product_quantity"": 100
   }
 }
-",Order_recFcl9ugKRfGg248.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/mZvajIANiI0b4HJqf8s6cQ/wKQ_ynyTkwHnq0728uNz_GKHocdQc4GI4RG8PhsU5-7R6eeB6wKYMLbrjjud-Fr8G5hYGTcCQzNG1hGAo76TnIxER4OEQx_XjT2x8ZfoJojPcxK10P4i95ufHH3OMrcVG_BvhOK18nnjljrlY0OS9DLS94T51JAPkMy7gjGH0LZxFtYssjwyUP4-VaqUV0SB/ZwBd6hphBW2xqwqeBYx2U9lxVWsBCvP5YhKn--BSUX8),Order,"
-
+",Order_recFcl9ugKRfGg248.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/4DOErLnhKrlqlasZd6k-ig/ec5WrFapuSyvK0wzgXqAMPuZ9vMy4rE5hzpFfIiymtc2tvDz9N5a3ALEARIhUmb7rokirqE66BmCBdyp9Swf7svQBXw2brSLPKxNliikFiYHFHGrJp3Z28UtEsBl6O11kPg_ypLAUhe00n6Hwu5eLJWbJmKLOG6TyMbJOnQ8U0SLWT3vqAA2YQfAKFVIi8AB/3so2i_LBuzlwHRBRffCe11SemBsfGFypwYjEY-cwkoo),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Moller Industrial Tools GmbH"",
@@ -2120,19 +2103,19 @@ Order_recFcl9ugKRfGg248,"{
     ""order_number"": ""202482519"",
     ""order_date"": ""14.11.2024"",
     ""delivery"": {
-      ""delivery_address_street"": ""Alganiyan Strasse 13"",
-      ""delivery_address_city"": ""Willo"",
-      ""delivery_address_postal_code"": ""47186""
+      ""delivery_address_street"": ""Werk Str. 19"",
+      ""delivery_address_city"": ""Ludwigshafen"",
+      ""delivery_address_postal_code"": ""67059""
     }
   },
   ""product"": {
     ""product_position"": 1,
-    ""product_article_code"": ""2250302"",
+    ""product_article_code"": ""P45233786"",
     ""product_quantity"": 100
   }
 }
-",64,
-Order_recxPHw8fuEpSKZF3,"{
+",99,Success: High similarity score,pdf_saved/Order_recFcl9ugKRfGg248.pdf
+45,Order_recxPHw8fuEpSKZF3,"{
   ""buyer"": {
     ""buyer_company_name"": ""Weber Tools GmbH"",
     ""buyer_person_name"": ""Nico Hartmann"",
@@ -2160,13 +2143,12 @@ Order_recxPHw8fuEpSKZF3,"{
     }
   ]
 }
-",Order_recxPHw8fuEpSKZF3.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/00QvmcoVYLwYIXD5Q2DVhg/bVAlg3u_KjKu8gzVqaewYCHwjmGLM17-7HAnlbgsi7FKN3nxf61l6iw6k_Xk85X9BvOjWgAYmsxKUPB2T1HWmKz83nLejJLYMnaXHfq8D1PH6f7GkTD3FW3IIlPhXl9Bwt7dRlXk6LOhGPQGo6MttQv_bsa7zU1wutwCncYD4-A42ooEU1J9zu8_liYS5qgu/gpFZEkl8wFKxiG_rT-VQzOGG6Vr8WA89GzKYYSgPPeE),Order,"
-
+",Order_recxPHw8fuEpSKZF3.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/ovJY8lMun4WuTGw-lGzgYw/gX-X4cZPT2ccf00Jb450v9hEjsAWqdCbyQBzPSWeOVQP5Ibe-qZFZ2gtyuBYTr9WsdzKB_Z-64RDUdYKkXDzcZMGm2HDkdIkPwWwM_5KP3oykTJ8BTNJb1IUl6uVQkfWylblrK8pApfP7Y5FGUox3uv7Bxe3nnga9FiKN0_gKJd50B2I1rRyoLfjeiiCjjxa/vUnjQqti96msjWzQe8na8rF0mGwVcUeru7SOA1beQQk),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""OttA GmbH"",
     ""buyer_person_name"": ""Nico Hartmann"",
-    ""buyer_email_address"": ""info@otta.de""
+    ""buyer_email_address"": ""nhartmann@weber-tools.com""
   },
   ""order"": {
     ""order_number"": ""143632"",
@@ -2190,8 +2172,8 @@ Order_recxPHw8fuEpSKZF3,"{
     }
   ]
 }
-",77,
-Order_reckRSXiM6fmEBMmT,"{
+",80,,pdf_saved/Order_recxPHw8fuEpSKZF3.pdf
+46,Order_reckRSXiM6fmEBMmT,"{
   ""buyer"": {
     ""buyer_company_name"": ""Schneider Metallbau GmbH"",
     ""buyer_person_name"": ""David Lehmann"",
@@ -2219,8 +2201,7 @@ Order_reckRSXiM6fmEBMmT,"{
     }
   ]
 }
-",Order_reckRSXiM6fmEBMmT.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/0xNYOcnJ3O19-8y3mrd4Bg/LWiZZZ1TPXJ9pHoi3bwTgo1KAlO2QFjCufq9wXhSwKo0GL1s40_n_nwfT4KKn4AEqnuRj7WtzNQ4JKJgJ3Nvf9OhgFOeT5do2cxJMxyFJN4XQLInzo7kUxws18-wIaNa3TGHtd9FREYr0IMEfjGRZd7TL_ulvVz4AyrZYNoaZwI_7QtTsLFnF0BTVmJ5LSs5/AV4Vgo3furzxNDFQyvWwmrOzi5bNRtET9-9bBuc7vYw),Order,"
-
+",Order_reckRSXiM6fmEBMmT.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/EzVxdMnTSRUn7k2CnBc2Qg/lyyK84qmjqZpUvTZed70oDz8jCx79avdNE2eOwgSc8EfiEdH27oFF6R5RvMgN5IVZNnHhJ8Yrxh29JJkgH3MXImG3ThFMIEHZHVHK2zq5sNzOn8AvPlXacB19KMft2GvjPLYOpeeWzXJSqazMqHRafsV9nqL_FsDwXjRv_yOIBJj0oyd4g2gv1a23j8XyGJZ/z3F4LScPS78CAaQ7bTPNDX2MXWsvN6rKd3gbJko__ww),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""OttA GmbH"",
@@ -2239,7 +2220,7 @@ Order_reckRSXiM6fmEBMmT,"{
   ""products"": [
     {
       ""product_position"": 1,
-      ""product_article_code"": ""P8420610"",
+      ""product_article_code"": ""Fratchen lang"",
       ""product_quantity"": 16
     },
     {
@@ -2249,13 +2230,13 @@ Order_reckRSXiM6fmEBMmT,"{
     },
     {
       ""product_position"": 3,
-      ""product_article_code"": """",
+      ""product_article_code"": ""22% Tagesaktion"",
       ""product_quantity"": 1
     }
   ]
 }
-",74,
-Order_rec3SOqB1o5gh6ZHB,"{
+",58,,pdf_saved/Order_reckRSXiM6fmEBMmT.pdf
+47,Order_rec3SOqB1o5gh6ZHB,"{
   ""buyer"": {
     ""buyer_company_name"": ""ZMT Precision GmbH"",
     ""buyer_person_name"": ""Fabian Reuter"",
@@ -2288,8 +2269,7 @@ Order_rec3SOqB1o5gh6ZHB,"{
     }
   ]
 }
-",Order_rec3SOqB1o5gh6ZHB.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/K0rWV8E7CXz7Jes0cDQRXg/D7Q6bsShCRlTqD04DoI1bAhnJ7XOyh1YJA75GfdraFWt33m57G8iIFA4UwgJx-36EOqX5uUyzVaaDbOofChkdi2YpJv7YV0zgncDwv8U5yv3nyUP0qwoi0X8wNuxF1k0HlvqKo7wzXq5c9nJvg1bX8ST7IlFqa5lA1-eGda_ebaK9jbVX0gMacVA9cOhbnvH/N_fwF9tNwMRpDfB9aVchFppTvnpc3rU2rBFmbjeOO4A),Order,"
-
+",Order_rec3SOqB1o5gh6ZHB.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/mpbIqRo0WyQKD100AkQhyQ/u43AdKfHLnQiS5U_fJ7dapZvhn66R8sCMmF9mAURAmZHp3UbRmHrZFgorBGC9zqe2xcAKkt8WX7lzqQmPEkM6RhZwWz-hgne-KHMxEJu70CBDUv8rDqeB7hcdgBVpDxJmFmHnCM7bbQAMx8UnlSesjp3EQl_sX0koePa5PSfwghpAlZNqa9goyWvy1fhMvH5/6rGJNImVJM15xN4PQ0ballDQ-_l-I42z-d5FGygJxhE),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""ZMT Precision GmbH"",
@@ -2300,9 +2280,9 @@ Order_rec3SOqB1o5gh6ZHB,"{
     ""order_number"": ""67078"",
     ""order_date"": ""15.11.2024"",
     ""delivery"": {
-      ""delivery_address_street"": ""Heimer Strasse 11"",
-      ""delivery_address_city"": ""Willo"",
-      ""delivery_address_postal_code"": ""47186""
+      ""delivery_address_street"": ""Industriestraße 12"",
+      ""delivery_address_city"": ""Dusseldorf"",
+      ""delivery_address_postal_code"": ""40231""
     }
   },
   ""products"": [
@@ -2323,8 +2303,8 @@ Order_rec3SOqB1o5gh6ZHB,"{
     }
   ]
 }
-",96,Success: High similarity score
-Order_rec12Fz5wemRIsfAJ,"{
+",100,Success: High similarity score,pdf_saved/Order_rec3SOqB1o5gh6ZHB.pdf
+48,Order_rec12Fz5wemRIsfAJ,"{
   ""buyer"": {
     ""buyer_company_name"": ""BauerTech GmbH"",
     ""buyer_person_name"": ""Sophie Lehmann"",
@@ -2347,8 +2327,7 @@ Order_rec12Fz5wemRIsfAJ,"{
     }
   ]
 }
-",Order_rec12Fz5wemRIsfAJ.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/BrFkkYXw9-DUGKsoJkhNjQ/t9hNLzD16IXhpHfnK4ILUbukqXY_48AI1dpQYk3gu-aJpXeeHFyEXVcwiIz9JSJNlGJtKcLV0cjZhLtUtGWp49WnRJ4fAS97HQtAbGmNQK_dgcHWjgptnOo8lrMGtJjTcffrayfu_spo4y6oyRxZd0OuNT5Zg54L2_Bs6sbvRHcQP1EzkHDCPHhSjQlljEgd/iWyTZqIHhbt61RNixiwQ-CloM6Q2CLDOI1LtT3nimGI),Order,"
-
+",Order_rec12Fz5wemRIsfAJ.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/66DbGaSgfXqJj9bFaKMnCg/Qz0A0V1U6-4-pYnGhyvFtgyrms9HYITiNxtGgzynKtaMvar2ZwOPBdGcdVI0iEN0rFExOWBDAMmwaozin5ronBKynzG4tVWVsusMz9N3tfwElo-HCHrPaziT1SS3fVGuW6oO3s2nXxgK6CCMQwDbAvSZJAPj_r6KLyYZpxiTnwtLo8o5LKDRUmUKPrxnMs5H/ES9AkmkjvGlDJ0wMBN_y3lH-8QV9IoYUCo0vJMvO_5A),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""BauerTech GmbH"",
@@ -2372,8 +2351,8 @@ Order_rec12Fz5wemRIsfAJ,"{
     }
   ]
 }
-",100,Success: High similarity score
-Order_recJHwr39KljOIkQY,"{
+",100,Success: High similarity score,pdf_saved/Order_rec12Fz5wemRIsfAJ.pdf
+49,Order_recJHwr39KljOIkQY,"{
   ""buyer"": {
     ""buyer_company_name"": ""Steinbach Precision GmbH & Co. KG"",
     ""buyer_person_name"": ""Lukas Mertens"",
@@ -2441,8 +2420,7 @@ Order_recJHwr39KljOIkQY,"{
     }
   ]
 }
-",Order_recJHwr39KljOIkQY.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/NLmjIcUw42elC2YXAeGDJQ/qTcpG-odIQCJMa2KVAgu__Qi_4AWZxLarWsSrbhGYoEinLYBr03WwlweX-avY-TJnZNVCMLlTmOvMcaPeV8XEXp0XBWfu4qZZ5ZqpY_Gy4CYUk6uF_S7lFg6EDO73mr5jj9zinL8GEvGmYTDAmvwHp0G60QkKkxNfjPiPjPbc0xP6MN8ZK5xp--Jo7nS8f59/gc1w0ZQ0JNITq4pQm2KowsxnQPn49RcaS6mQ1AOObU0),Order,"
-
+",Order_recJHwr39KljOIkQY.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/DPeK52ui5mNdEcu-mOlj-w/Zz1sTFRAa_yesXuRAQ-QaF8UmCYy-H0ouvpQvUaUPuJsWKbtTJoiPkUSrAM6nXXEG2lb5yliNxjXWdxU6wunnhR-z3svKV22dZ_ze_VE7zFDOt7bbhRWLpPTKclCK13I5o4nAG2CLkgwVuA_pLiJ5JP1rin5iXtUON0B9XeDi0e3wRUjMaVlppBrFGrp-O9I/D2gVSE0490l6O56mj3Q0E4iAYwehKjDlroYZKh8rrZg),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Steinbach Precision GmbH & Co. KG"",
@@ -2453,9 +2431,9 @@ Order_recJHwr39KljOIkQY,"{
     ""order_number"": ""241494"",
     ""order_date"": ""15.11.2024"",
     ""delivery"": {
-      ""delivery_address_street"": ""Double Scalar-Str. 15b"",
-      ""delivery_address_city"": ""Willo"",
-      ""delivery_address_postal_code"": ""47186""
+      ""delivery_address_street"": ""Industriepark 45"",
+      ""delivery_address_city"": ""Bad Hersfeld"",
+      ""delivery_address_postal_code"": ""36251""
     }
   },
   ""products"": [
@@ -2511,8 +2489,8 @@ Order_recJHwr39KljOIkQY,"{
     }
   ]
 }
-",53,
-Order_recQdBIMtJOivz7sD,"{
+",58,,pdf_saved/Order_recJHwr39KljOIkQY.pdf
+50,Order_recQdBIMtJOivz7sD,"{
   ""buyer"": {
     ""buyer_company_name"": ""NovaWorks AG GmbH"",
     ""buyer_person_name"": ""Lukas Schneider"",
@@ -2535,11 +2513,10 @@ Order_recQdBIMtJOivz7sD,"{
     }
   ]
 }
-",Order_recQdBIMtJOivz7sD.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/-E_ET9u8TQHEirEtuLs0IQ/suY4v6uqlsgYSa1o5xDrdLP9MHlVnUqdNpV5-69_iwiZMKQ13dm_zV8tnBVoJ9iPs4kNbpuLakj4yBrT3IVVcx5tn82R0xT2jyYMDfWeCyils5mVkXKeXZfx8xnzN5RHN_q-R7CQOUAcISEhrr3B1tw8y7Mx2l8HXKV-1L3UiJ7gfoi2O3sQnXDO0WkZXDKi/l29cHGuFN67MnQnbpxTLF91aWFECDS8JjMcVcKIOu5Q),Order,"
-
+",Order_recQdBIMtJOivz7sD.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/ei-t3B4NjyRtNll_66KaJQ/vc5zjdtsV5IvzODTTCKtLnDNzRHkXj87G5Ff_-uLvhqTKmnfyi-dN51dp52wrxhze043eS-INTtzIf-EhyffKxXrvbqBlAxVBb9T8Ovfd7J35of8BYQfqeR3-YAS9BqPbFHppK80p7hzG18HzVo7iVnNAMYyenMVl9qFCTIHWfavRWXdL0Guy9pixwJb6MXy/X3mEhBZtTkLvbu4Bkq02essE_J2ZF5-orZCS2Ko9qMU),Order,"
 {
   ""buyer"": {
-    ""buyer_company_name"": ""OttA GmbH"",
+    ""buyer_company_name"": ""NovaWorks AG GmbH"",
     ""buyer_person_name"": ""Lukas Schneider"",
     ""buyer_email_address"": ""l.schneider@novaworks.de""
   },
@@ -2560,8 +2537,8 @@ Order_recQdBIMtJOivz7sD,"{
     }
   ]
 }
-",98,Success: High similarity score
-Order_recekBHZwJlB51UEQ,"{
+",100,Success: High similarity score,pdf_saved/Order_recQdBIMtJOivz7sD.pdf
+51,Order_recekBHZwJlB51UEQ,"{
   ""buyer"": {
     ""buyer_company_name"": ""FerroLine GmbH"",
     ""buyer_person_name"": ""Martin Köhler"",
@@ -2584,8 +2561,7 @@ Order_recekBHZwJlB51UEQ,"{
     }
   ]
 }
-",Order_recekBHZwJlB51UEQ.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/s4aegXVap9Sf8BSYGJ6h4w/KNg0zzJf9f0gw8W-caZNJJjnPLZ9Cj-TvQzhwNhIXclH5wt7BheezT97FJuE5XYmdS4rwyCHarRJUiioj576ROuo3R5yxuq8TZxSRTjpQyl0I5MmqOr91UHnvwhufROkky1gp9cPHD2q-r7kMlngoAcfU-qNFHOBw1cXig5R13vpwpoozKbwy_hICBi_Oa0W/89urwaJQNi_nbqs54DyiZkhrLkZvqhQC7HGBu9XZIE8),Order,"
-
+",Order_recekBHZwJlB51UEQ.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/U2uBahORX9USgOFO5HhZAg/tZkP3YnYQ3UQNcDEp-dnJWSlSlhMsKhSK9NY_FKv5fxsOxWFRWvjtJ5SoMx0xCGuRJr0mwHH64sB3hBReLKxY4sUkQNH0e2SeWksGvbRUQkdRcJazUYAFO1pXu2c8mzydtLbiI_RFSjqUk0JNNkZU0yMs7IOgURZt6Pnw55jE56pGiuGKbfmw7OIvj1kQfZJ/mcu3fuMdIJWRxHsWdBJp4L5i8kXG4d2jNassmQ2J02w),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""FerroLine GmbH"",
@@ -2596,9 +2572,9 @@ Order_recekBHZwJlB51UEQ,"{
     ""order_number"": ""4700632819"",
     ""order_date"": ""01.12.2024"",
     ""delivery"": {
-      ""delivery_address_street"": ""Schumacher Str. 19b"",
-      ""delivery_address_city"": ""Willo"",
-      ""delivery_address_postal_code"": ""47872""
+      ""delivery_address_street"": ""Siemensallee 3"",
+      ""delivery_address_city"": ""Karlsruhe"",
+      ""delivery_address_postal_code"": ""76185""
     }
   },
   ""products"": [
@@ -2609,8 +2585,8 @@ Order_recekBHZwJlB51UEQ,"{
     }
   ]
 }
-",86,
-Order_rec1nJMeDOHhOSMey,"{
+",100,Success: High similarity score,pdf_saved/Order_recekBHZwJlB51UEQ.pdf
+52,Order_rec1nJMeDOHhOSMey,"{
   ""buyer"": {
     ""buyer_company_name"": ""Prima Labs GmbH"",
     ""buyer_person_name"": ""Jonas Weber"",
@@ -2633,8 +2609,7 @@ Order_rec1nJMeDOHhOSMey,"{
     }
   ]
 }
-",Order_rec1nJMeDOHhOSMey.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/HipzHTSJK62Qx49ZgK27pA/bboNf-iB9zT1vopF4v1YatMlna-y30G881JbgWo_humMYYx9E3ABBxUulFmZ2wh4iB_z7gMOweHMIV_z77ey1nSZcDw2h6HeeHfpiY-gxtdgyvHkD__XvgXRUsL-cJiUapj2n0X26_p0U46sYrYHexczil6477q04nBzdFLJcBY-IUDXawkSRtzqsvudFLsK/uzKb-vPDd0OAkRUBsH4b6b2V0ppfJVVOVdco9UF86jA),Order,"
-
+",Order_rec1nJMeDOHhOSMey.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/lZKsbrbcMrhZAuSzzyFGYw/8FsvQgTbOV9LeEzpgDwTrRf2RipwDBcBHeBgYWz651TQehUF2y3oMw6DW70ezJkmwOAGhDyrBpzgQGwo8k2LdnrzoefxVrqwySt8B-N8c5UzEZmOHYC1h5L7TzjzZGHX0dn8vWkb5WwUd-FdmAKODzLYh0QriJ9EB4hZMm1aP4U3Wu3Go5tJmsMDlwLLFTJt/PTw2C307TBJh1mbdQRWf156aM1JKk_etIRhX-OFrB6M),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Prima Labs GmbH"",
@@ -2658,8 +2633,8 @@ Order_rec1nJMeDOHhOSMey,"{
     }
   ]
 }
-",100,Success: High similarity score
-Order_recwdac9eVzYdnGMO,"{
+",100,Success: High similarity score,pdf_saved/Order_rec1nJMeDOHhOSMey.pdf
+53,Order_recwdac9eVzYdnGMO,"{
   ""buyer"": {
     ""buyer_company_name"": ""Nexa Solutions GmbH"",
     ""buyer_person_name"": ""Katharina Wolf"",
@@ -2682,8 +2657,7 @@ Order_recwdac9eVzYdnGMO,"{
     }
   ]
 }
-",Order_recwdac9eVzYdnGMO.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/NaZyWiJyVfwZjtBL1R6wTQ/p2iABNIy54jkjkhTkj_jgR_BrnCyaN3kYIRz3cPHjsN4fUm3AjN9pVzs86fl3qSvR-cJk4qM_C-m3fkJqiYx2puJjuuBX8FRBl8alNyJVOZFBgXSddlOi1IMrP6vQoXUXKUquOD0yb6VHq3_nT3KdiJeADi7_7TfFMpNuKCd2SVlq3aJmBLA40tiEaUzVRJ1/2JZM8JoqzT3OiSx3SdkblEcp2OAt0D08cuWesJxewIk),Order,"
-
+",Order_recwdac9eVzYdnGMO.PDF (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/ZZ9qizF2trYgemzbPc5GCg/yCAdgE2hWHxExy4zxVUkrWsq_MFuTi3AlD_gQNc9noAdh9pVc1_w5cXKb8eI_eJsMH9VGeov1PTmcMVgHibbecQ-Qd--CbxDBalg_xrNyfQL8H6ZMgD3v_lxHIuL1ZaK7DbKzMXdfFCs7bfoLl291SYBGp-Zw2g0e9HrMDRY8OwX19Z4mEXHlHO3f1xDM2va/bRR9QM2OLsfkbP0GP8WCZ2B_QdWSBoRi5TU0yeGqbZQ),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Nexa Solutions GmbH"",
@@ -2707,8 +2681,8 @@ Order_recwdac9eVzYdnGMO,"{
     }
   ]
 }
-",95,Success: High similarity score
-Order_recOE9INV5eS3mX3l,"{
+",95,Success: High similarity score,pdf_saved/Order_recwdac9eVzYdnGMO.pdf
+54,Order_recOE9INV5eS3mX3l,"{
   ""buyer"": {
     ""buyer_company_name"": ""Altura Dynamics GmbH"",
     ""buyer_person_name"": ""Tobias Meier"",
@@ -2731,8 +2705,7 @@ Order_recOE9INV5eS3mX3l,"{
     }
   ]
 }
-",Order_recOE9INV5eS3mX3l.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745661600000/vHkRIapoRjvMx6Iq08T4pA/3dctiGKAChEfOp_xFrdEaMUYC-FdzYETf2f1RdHzGsRGcQtUi_VlcOP_eKBGnMmuQyAYVJrQdekDD0tJAe50dPW8JptVOieZ1Rv76sKe-jpoKExXli5SXH5bamLSEj6ydxijhwsH6RWk5kivRLIA-OY8oDPmueIBTblDtC7sbqVgXJldp3l2zuziXDOAkoj2/1W8sIyhavfIIUl3Vk_lu57HTQp2jvmrMh4HPStm2Ab8),Order,"
-
+",Order_recOE9INV5eS3mX3l.pdf (https://v5.airtableusercontent.com/v3/u/40/40/1745863200000/KrUIAHkk_CkZ9ddw4QFWFg/5gC9E_uX5LvZc7aCMlly3wMkB94rw6IUFDvfRH3AWe4IoiDyr3FrzivaKAiG5lq5AZik6KwncMHDSES62cqWsQg3Ro-6_80sne8ajeoXycKPJOtNeKkkz8HSNlZVV08tgPxv7kqwKW3ocllXElpVSWwWkaq_WYPfgWXuXpd249FrnQplegdFxzmKUeggWxXc/Sse2OkQ5w5MJ78nkv-k88iCkBe6I8eTjd5jphr03SBM),Order,"
 {
   ""buyer"": {
     ""buyer_company_name"": ""Altura Dynamics GmbH"",
@@ -2756,4 +2729,4 @@ Order_recOE9INV5eS3mX3l,"{
     }
   ]
 }
-",71,
+",71,,pdf_saved/Order_recOE9INV5eS3mX3l.pdf
