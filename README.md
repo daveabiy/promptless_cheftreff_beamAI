@@ -1,5 +1,5 @@
 # Promptless
-![alt text](images/image.png.png)
+![alt text](images/logo.png)
 
 ![alt text](images/process_diagram.svg)
 ---
