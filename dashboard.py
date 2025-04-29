@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from PyPDF2 import PdfReader
 from pdf2image import convert_from_path
-from IPython.display import display
-from PIL import Image
 
 def display_pdf_as_images(file_path):
     pages = convert_from_path(file_path)
