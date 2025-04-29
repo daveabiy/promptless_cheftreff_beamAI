@@ -1,15 +1,40 @@
-# promptless_cheftreff_beamAI
-This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2025, Hamburg. The task is to create an AI agent that can generate prompt given the output.
+# Promptless
 
-# command for running:
+This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2025, Hamburg. The task is to create an AI agent that can generate prompts given the output.
+
+---
+
+## Installation
+
+To set up the project, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/your-repo-name/promptless_cheftreff_beamAI.git
+   cd promptless_cheftreff_beamAI
+
+   python3 -m venv venv
+   source venv/bin/activate
+
+   python3 -m venv venv
+   source venv/bin/activate   
+
+   pip install -r requirements.txt
+   sudo apt-get update
+   sudo apt-get install -y poppler-utils
+   ```
+> Make sure the **api** for gpt is included in the ```.env``` file.
+
+2. **Working with Promptless**:
 ## converting the pdf to text file using pytesseract
-<b><i>python parser.py data/Testdata_Hackathon.csv</i></b>
+```python parser.py data/Testdata_Hackathon.csv```
 
 ## extracting required information using a generated prompt
-<b><i>python parser.py data/Testdata_Hackathon.csv</i></b>
+```python script.py```
 
 ## Progress Update
-
+use streamlit to see the general result
+>```streamlit run dashboard.py```
 ---
 ### What We Have Accomplished:
 
@@ -27,10 +52,6 @@ This is the work done as team "Promptless" during the cheftreff hackathon, Apr 2
 
 4. **Automation**:
    - Automated the entire pipeline, ensuring scalability and adaptability to new document formats without manual intervention.
-
-5. **Submission**:
-   - Uploaded extracted data to Airtable for evaluation.
-   - Verified the uploaded data through the provided Airtable links.
 
 ---
 
