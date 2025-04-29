@@ -1,0 +1,50 @@
+**Refined Prompt for Extracting Structured Data from Invoice Documents:**
+
+---
+
+**Objective:** Extract structured data from invoice documents while effectively managing background noise, OCR errors, varied layouts, and multilingual content (primarily English and German).
+
+**Instructions:**
+
+1. **Data Extraction Requirements:**
+   - Extract data in the exact JSON format provided below.
+   - Ensure the data types and structure match the example precisely.
+   - Do not extract incomplete or partially provided information.
+   - Avoid summarizing or grouping data; present it unchanged.
+
+2. **Handling Background Noise and OCR Errors:**
+   - Focus on key invoice elements, ignoring irrelevant text or noise.
+   - Be vigilant of OCR errors; verify extracted data for accuracy and correct any obvious errors.
+
+3. **Dealing with Varied Layouts and Terminologies:**
+   - Identify common invoice elements despite layout differences.
+   - Recognize synonymous terms (e.g., "total" vs. "sum") and map them to the expected fields.
+
+4. **Multilingual Considerations:**
+   - Primarily handle English and German invoices.
+   - Translate key terms if necessary to ensure accurate data mapping.
+
+5. **Expected JSON Output Format:**
+
+```json
+{
+  "total_gross": 0.00,
+  "total_net": 0.00,
+  "business_name": "",
+  "items": [
+    {
+      "name": "",
+      "price": 0.00
+    }
+  ]
+}
+```
+
+**Explanation:**
+- **"total_gross"** and **"total_net"**: Extract as floating-point numbers, ensuring accuracy.
+- **"business_name"**: Extract as a string, ensuring it is not merged with addresses or other text.
+- **"items"**: Extract as an array of objects, each containing:
+  - **"name"**: Item name as a string.
+  - **"price"**: Item price as a floating-point number.
+
+**Note:** Ensure the output strictly adheres to the JSON format, including the number of lines and data types. Address potential issues from previous attempts by focusing on accuracy and completeness of the extracted data. Pay special attention to separating names and addresses, and ensure no merging occurs. If the previous score was low, ensure that the prompt is clear and concise, providing specific instructions for handling noisy data by using the "Explanation" as a guide.

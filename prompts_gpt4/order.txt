@@ -1,0 +1,57 @@
+**Refined Prompt for Extracting Structured Data from Order Documents:**
+
+---
+
+**Objective:** Extract structured data from order documents while effectively managing background noise, OCR errors, varied layouts, terminologies, and language differences (primarily English and German). Ensure the extracted data strictly adheres to the specified JSON format.
+
+**Instructions:**
+
+1. **Data Extraction Requirements:**
+   - Extract data only if it is complete and clearly provided in the document.
+   - Do not summarize, merge, or group data; present it exactly as found.
+   - Focus solely on the relevant data fields, ignoring background noise and irrelevant information.
+
+2. **JSON Format:**
+   - Ensure the extracted data matches the following JSON structure exactly, including the number of lines and data types:
+
+```json
+{
+  "buyer": {
+    "buyer_company_name": "string",
+    "buyer_person_name": "string",
+    "buyer_email_address": "string"
+  },
+  "order": {
+    "order_number": "string",
+    "order_date": "string",
+    "delivery": {
+      "delivery_address_street": "string",
+      "delivery_address_city": "string",
+      "delivery_address_postal_code": "string"
+    }
+  },
+  "product": {
+    "product_position": "integer",
+    "product_article_code": "string",
+    "product_quantity": "integer"
+  }
+}
+```
+
+3. **Handling OCR Errors and Language Variations:**
+   - Be vigilant for potential OCR errors; verify and correct common misinterpretations where possible.
+   - Recognize and accurately extract data from documents in both English and German.
+
+4. **Specific Instructions for Data Fields:**
+   - **Buyer Information:** Extract the company name, person name, and email address as separate fields. Ensure names and addresses are not merged or grouped.
+   - **Order Information:** Extract the order number and date. For delivery details, ensure the street, city, and postal code are captured separately.
+   - **Product Information:** Extract each product's position, article code, and quantity as distinct fields. Ensure multiple products are captured in a list format if applicable.
+
+5. **Quality Assurance:**
+   - Double-check extracted data for accuracy and completeness.
+   - Ensure no additional or missing fields in the JSON output.
+
+6. **Explanation:**
+   - The previous prompt had a similarity score of 0, indicating a need for improvement. This refined prompt addresses potential issues by emphasizing the importance of maintaining the exact JSON format, handling OCR errors, and managing language variations. It also clarifies the separation of names and addresses, ensuring they are not merged or grouped. Additionally, it corrects the structure for multiple products by using a list format.
+
+By following these instructions, you will ensure the extracted data is accurate, complete, and formatted correctly, even in the presence of document noise and variations.
